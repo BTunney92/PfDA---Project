@@ -9,3 +9,4 @@
 [5] - https://data.cso.ie/
 [6] - https://numpy.org/doc/1.16/reference/routines.random.html
 [7] - https://stackoverflow.com/questions/50213733/how-to-create-np-array-random-data-on-age-vs-time
+[8] - https://www.sharpsightlabs.com/blog/numpy-standard-deviation/
