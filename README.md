@@ -10,3 +10,6 @@
 [6] - https://numpy.org/doc/1.16/reference/routines.random.html
 [7] - https://stackoverflow.com/questions/50213733/how-to-create-np-array-random-data-on-age-vs-time
 [8] - https://www.sharpsightlabs.com/blog/numpy-standard-deviation/
+[9] - https://www.geeksforgeeks.org/python-pandas-dataframe-describe-method/
+[10] - https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.DataFrameGroupBy.describe.html
+
