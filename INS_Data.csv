@@ -1,1001 +1,1001 @@
-,Gender,Licence,Cover,Age,Premium
-0,Female,Full,Comprehensive,31-50,456.0
-1,Male,Full,Comprehensive,25-30,657.0
-2,Female,Full,Comprehensive,31-50,456.0
-3,Male,Full,Comprehensive,31-50,495.0
-4,Male,Full,Comprehensive,31-50,495.0
-5,Male,Full,Comprehensive,25-30,657.0
-6,Female,Full,Comprehensive,51-70,433.0
-7,Female,Full,Third Party,31-50,497.0
-8,Male,Full,Comprehensive,51-70,454.0
-9,Male,Full,Comprehensive,51-70,454.0
-10,Male,Full,Comprehensive,71+,520.0
-11,Male,Full,Comprehensive,21-24,915.0
-12,Female,Full,Third Party,31-50,497.0
-13,Male,Full,Comprehensive,51-70,454.0
-14,Female,Full,Comprehensive,51-70,433.0
-15,Female,Full,Comprehensive,31-50,456.0
-16,Male,Full,Comprehensive,71+,520.0
-17,Female,Full,Comprehensive,31-50,456.0
-18,Male,Full,Comprehensive,25-30,657.0
-19,Male,Provisional,Comprehensive,31-50,776.0
-20,Female,Full,Third Party,31-50,497.0
-21,Male,Full,Third Party,51-70,472.0
-22,Female,Full,Comprehensive,25-30,561.0
-23,Female,Full,Comprehensive,31-50,456.0
-24,Male,Full,Comprehensive,31-50,495.0
-25,Male,Full,Comprehensive,17-20,1388.0
-26,Male,Full,Comprehensive,51-70,454.0
-27,Male,Full,Comprehensive,31-50,495.0
-28,Female,Full,Comprehensive,31-50,456.0
-29,Male,Full,Comprehensive,51-70,454.0
-30,Male,Full,Third Party,21-24,959.0
-31,Female,Full,Comprehensive,51-70,433.0
-32,Female,Full,Comprehensive,21-24,785.0
-33,Female,Full,Comprehensive,21-24,785.0
-34,Male,Full,Comprehensive,21-24,915.0
-35,Female,Full,Comprehensive,31-50,456.0
-36,Male,Full,Third Party,31-50,527.0
-37,Female,Full,Comprehensive,31-50,456.0
-38,Male,Full,Comprehensive,21-24,915.0
-39,Female,Full,Comprehensive,17-20,1253.0
-40,Male,Full,Comprehensive,31-50,495.0
-41,Male,Full,Comprehensive,21-24,915.0
-42,Male,Full,Third Party,31-50,527.0
-43,Female,Full,Comprehensive,25-30,561.0
-44,Female,Full,Comprehensive,31-50,456.0
-45,Female,Full,Comprehensive,71+,491.0
-46,Female,Full,Third Party,51-70,465.0
-47,Female,Full,Comprehensive,51-70,433.0
-48,Female,Full,Comprehensive,71+,491.0
-49,Female,Provisional,Comprehensive,31-50,724.0
-50,Male,Full,Comprehensive,31-50,495.0
-51,Female,Full,Comprehensive,31-50,456.0
-52,Female,Provisional,Comprehensive,21-24,1218.0
-53,Female,Full,Third Party,51-70,465.0
-54,Male,Full,Comprehensive,25-30,657.0
-55,Male,Full,Comprehensive,31-50,495.0
-56,Female,Full,Comprehensive,31-50,456.0
-57,Female,Full,Comprehensive,31-50,456.0
-58,Male,Full,Comprehensive,21-24,915.0
-59,Female,Full,Comprehensive,31-50,456.0
-60,Male,Full,Comprehensive,31-50,495.0
-61,Male,Full,Comprehensive,31-50,495.0
-62,Female,Full,Comprehensive,31-50,456.0
-63,Male,Full,Comprehensive,31-50,495.0
-64,Male,Full,Comprehensive,21-24,915.0
-65,Male,Full,Third Party,17-20,1843.0
-66,Male,Provisional,Comprehensive,51-70,679.0
-67,Male,Full,Comprehensive,51-70,454.0
-68,Male,Full,Comprehensive,31-50,495.0
-69,Male,Full,Comprehensive,31-50,495.0
-70,Female,Full,Comprehensive,31-50,456.0
-71,Female,Full,Third Party,71+,458.0
-72,Male,Full,Comprehensive,51-70,454.0
-73,Male,Full,Comprehensive,51-70,454.0
-74,Female,Full,Comprehensive,17-20,1253.0
-75,Male,Full,Comprehensive,71+,520.0
-76,Male,Full,Third Party,51-70,472.0
-77,Male,Full,Comprehensive,31-50,495.0
-78,Female,Full,Comprehensive,21-24,785.0
-79,Male,Full,Comprehensive,51-70,454.0
-80,Male,Full,Comprehensive,25-30,657.0
-81,Male,Full,Comprehensive,31-50,495.0
-82,Male,Full,Comprehensive,31-50,495.0
-83,Female,Full,Comprehensive,31-50,456.0
-84,Female,Full,Comprehensive,71+,491.0
-85,Female,Full,Comprehensive,51-70,433.0
-86,Male,Full,Comprehensive,21-24,915.0
-87,Female,Full,Comprehensive,31-50,456.0
-88,Female,Full,Comprehensive,71+,491.0
-89,Male,Full,Comprehensive,31-50,495.0
-90,Male,Full,Comprehensive,51-70,454.0
-91,Female,Full,Third Party,31-50,497.0
-92,Female,Full,Third Party,51-70,465.0
-93,Female,Full,Comprehensive,71+,491.0
-94,Female,Full,Comprehensive,71+,491.0
-95,Male,Full,Comprehensive,51-70,454.0
-96,Male,Full,Comprehensive,25-30,657.0
-97,Male,Full,Comprehensive,71+,520.0
-98,Female,Full,Comprehensive,31-50,456.0
-99,Female,Full,Comprehensive,25-30,561.0
-100,Female,Full,Comprehensive,51-70,433.0
-101,Male,Full,Comprehensive,51-70,454.0
-102,Male,Full,Comprehensive,31-50,495.0
-103,Male,Full,Third Party,71+,473.0
-104,Female,Full,Third Party,51-70,465.0
-105,Female,Full,Third Party,31-50,497.0
-106,Female,Full,Third Party,31-50,497.0
-107,Male,Provisional,Comprehensive,31-50,776.0
-108,Female,Full,Third Party,31-50,497.0
-109,Female,Full,Comprehensive,25-30,561.0
-110,Female,Full,Comprehensive,21-24,785.0
-111,Male,Full,Comprehensive,25-30,657.0
-112,Male,Full,Comprehensive,51-70,454.0
-113,Female,Full,Comprehensive,71+,491.0
-114,Male,Full,Comprehensive,31-50,495.0
-115,Female,Full,Comprehensive,31-50,456.0
-116,Female,Full,Comprehensive,51-70,433.0
-117,Female,Full,Third Party,31-50,497.0
-118,Male,Full,Third Party,51-70,472.0
-119,Female,Full,Third Party,71+,458.0
-120,Female,Full,Comprehensive,51-70,433.0
-121,Female,Full,Comprehensive,31-50,456.0
-122,Male,Full,Comprehensive,51-70,454.0
-123,Male,Full,Third Party,71+,473.0
-124,Male,Full,Comprehensive,25-30,657.0
-125,Male,Full,Third Party,51-70,472.0
-126,Female,Full,Comprehensive,71+,491.0
-127,Male,Full,Comprehensive,31-50,495.0
-128,Male,Full,Comprehensive,51-70,454.0
-129,Female,Full,Comprehensive,31-50,456.0
-130,Male,Full,Comprehensive,51-70,454.0
-131,Female,Full,Third Party,31-50,497.0
-132,Female,Full,Comprehensive,25-30,561.0
-133,Female,Full,Comprehensive,21-24,785.0
-134,Female,Full,Comprehensive,51-70,433.0
-135,Male,Full,Comprehensive,31-50,495.0
-136,Female,Full,Comprehensive,31-50,456.0
-137,Female,Full,Comprehensive,31-50,456.0
-138,Male,Full,Comprehensive,51-70,454.0
-139,Male,Full,Third Party,31-50,527.0
-140,Male,Full,Comprehensive,51-70,454.0
-141,Female,Full,Comprehensive,25-30,561.0
-142,Female,Full,Third Party,17-20,1465.0
-143,Male,Full,Comprehensive,51-70,454.0
-144,Male,Full,Comprehensive,31-50,495.0
-145,Male,Full,Comprehensive,31-50,495.0
-146,Female,Full,Comprehensive,31-50,456.0
-147,Female,Full,Comprehensive,31-50,456.0
-148,Male,Full,Comprehensive,51-70,454.0
-149,Female,Full,Comprehensive,51-70,433.0
-150,Female,Full,Comprehensive,31-50,456.0
-151,Male,Full,Comprehensive,71+,520.0
-152,Male,Full,Third Party,31-50,527.0
-153,Male,Full,Comprehensive,21-24,915.0
-154,Female,Full,Comprehensive,31-50,456.0
-155,Male,Full,Comprehensive,71+,520.0
-156,Male,Full,Comprehensive,71+,520.0
-157,Male,Full,Comprehensive,17-20,1388.0
-158,Female,Full,Third Party,71+,458.0
-159,Male,Full,Comprehensive,31-50,495.0
-160,Male,Full,Comprehensive,25-30,657.0
-161,Male,Full,Third Party,31-50,527.0
-162,Male,Provisional,Comprehensive,31-50,776.0
-163,Female,Full,Comprehensive,21-24,785.0
-164,Female,Full,Comprehensive,31-50,456.0
-165,Male,Full,Comprehensive,31-50,495.0
-166,Male,Full,Third Party,25-30,683.0
-167,Female,Full,Comprehensive,31-50,456.0
-168,Female,Full,Comprehensive,51-70,433.0
-169,Female,Full,Comprehensive,31-50,456.0
-170,Male,Full,Comprehensive,31-50,495.0
-171,Male,Full,Comprehensive,71+,520.0
-172,Female,Full,Comprehensive,31-50,456.0
-173,Male,Full,Comprehensive,51-70,454.0
-174,Female,Full,Comprehensive,25-30,561.0
-175,Male,Full,Comprehensive,31-50,495.0
-176,Female,Full,Comprehensive,31-50,456.0
-177,Male,Full,Comprehensive,71+,520.0
-178,Male,Full,Comprehensive,25-30,657.0
-179,Female,Full,Third Party,31-50,497.0
-180,Male,Full,Comprehensive,51-70,454.0
-181,Male,Full,Comprehensive,51-70,454.0
-182,Female,Full,Comprehensive,51-70,433.0
-183,Female,Full,Comprehensive,71+,491.0
-184,Male,Full,Comprehensive,51-70,454.0
-185,Male,Full,Comprehensive,31-50,495.0
-186,Female,Full,Comprehensive,51-70,433.0
-187,Male,Full,Third Party,71+,473.0
-188,Female,Provisional,Comprehensive,31-50,724.0
-189,Female,Full,Comprehensive,31-50,456.0
-190,Male,Full,Comprehensive,25-30,657.0
-191,Male,Full,Comprehensive,71+,520.0
-192,Male,Full,Third Party,25-30,683.0
-193,Female,Full,Comprehensive,51-70,433.0
-194,Female,Full,Third Party,31-50,497.0
-195,Male,Full,Comprehensive,51-70,454.0
-196,Male,Full,Comprehensive,51-70,454.0
-197,Male,Full,Comprehensive,31-50,495.0
-198,Male,Full,Third Party,21-24,959.0
-199,Male,Full,Comprehensive,31-50,495.0
-200,Male,Full,Comprehensive,31-50,495.0
-201,Male,Full,Comprehensive,51-70,454.0
-202,Male,Full,Third Party,31-50,527.0
-203,Female,Full,Comprehensive,71+,491.0
-204,Female,Full,Comprehensive,21-24,785.0
-205,Male,Full,Comprehensive,31-50,495.0
-206,Female,Full,Comprehensive,25-30,561.0
-207,Male,Full,Comprehensive,17-20,1388.0
-208,Male,Provisional,Comprehensive,31-50,776.0
-209,Male,Full,Comprehensive,25-30,657.0
-210,Male,Full,Comprehensive,25-30,657.0
-211,Female,Full,Comprehensive,31-50,456.0
-212,Female,Full,Comprehensive,17-20,1253.0
-213,Male,Full,Third Party,31-50,527.0
-214,Male,Full,Comprehensive,17-20,1388.0
-215,Male,Full,Third Party,71+,473.0
-216,Male,Full,Third Party,51-70,472.0
-217,Male,Full,Comprehensive,31-50,495.0
-218,Female,Full,Comprehensive,51-70,433.0
-219,Female,Full,Comprehensive,51-70,433.0
-220,Female,Full,Third Party,21-24,804.0
-221,Female,Full,Comprehensive,21-24,785.0
-222,Female,Full,Comprehensive,51-70,433.0
-223,Male,Full,Comprehensive,25-30,657.0
-224,Male,Full,Third Party,31-50,527.0
-225,Female,Full,Comprehensive,31-50,456.0
-226,Female,Full,Third Party,51-70,465.0
-227,Female,Full,Comprehensive,51-70,433.0
-228,Male,Full,Third Party,25-30,683.0
-229,Male,Full,Third Party,51-70,472.0
-230,Male,Full,Comprehensive,31-50,495.0
-231,Female,Full,Comprehensive,17-20,1253.0
-232,Male,Full,Comprehensive,31-50,495.0
-233,Male,Full,Comprehensive,21-24,915.0
-234,Male,Full,Comprehensive,31-50,495.0
-235,Male,Full,Comprehensive,51-70,454.0
-236,Female,Full,Comprehensive,71+,491.0
-237,Female,Full,Comprehensive,31-50,456.0
-238,Female,Full,Comprehensive,31-50,456.0
-239,Male,Full,Comprehensive,25-30,657.0
-240,Female,Full,Comprehensive,31-50,456.0
-241,Female,Full,Third Party,31-50,497.0
-242,Male,Provisional,Comprehensive,31-50,776.0
-243,Female,Full,Third Party,21-24,804.0
-244,Male,Full,Comprehensive,51-70,454.0
-245,Male,Full,Comprehensive,25-30,657.0
-246,Male,Full,Comprehensive,31-50,495.0
-247,Male,Full,Comprehensive,31-50,495.0
-248,Male,Full,Comprehensive,31-50,495.0
-249,Male,Full,Third Party,31-50,527.0
-250,Female,Full,Third Party,51-70,465.0
-251,Male,Full,Comprehensive,31-50,495.0
-252,Female,Full,Comprehensive,51-70,433.0
-253,Female,Full,Comprehensive,51-70,433.0
-254,Male,Full,Comprehensive,31-50,495.0
-255,Female,Full,Comprehensive,31-50,456.0
-256,Female,Full,Comprehensive,25-30,561.0
-257,Male,Full,Comprehensive,51-70,454.0
-258,Male,Full,Comprehensive,51-70,454.0
-259,Female,Full,Third Party,71+,458.0
-260,Female,Full,Comprehensive,51-70,433.0
-261,Female,Full,Comprehensive,31-50,456.0
-262,Female,Full,Comprehensive,51-70,433.0
-263,Male,Full,Third Party,31-50,527.0
-264,Female,Full,Comprehensive,31-50,456.0
-265,Female,Full,Comprehensive,17-20,1253.0
-266,Male,Full,Comprehensive,51-70,454.0
-267,Male,Full,Comprehensive,51-70,454.0
-268,Male,Full,Comprehensive,17-20,1388.0
-269,Female,Full,Third Party,71+,458.0
-270,Male,Full,Comprehensive,25-30,657.0
-271,Male,Full,Comprehensive,25-30,657.0
-272,Male,Full,Comprehensive,17-20,1388.0
-273,Male,Full,Comprehensive,31-50,495.0
-274,Female,Full,Comprehensive,31-50,456.0
-275,Female,Full,Comprehensive,31-50,456.0
-276,Female,Full,Comprehensive,31-50,456.0
-277,Female,Full,Comprehensive,71+,491.0
-278,Male,Full,Comprehensive,31-50,495.0
-279,Male,Full,Comprehensive,51-70,454.0
-280,Female,Full,Third Party,51-70,465.0
-281,Male,Full,Comprehensive,31-50,495.0
-282,Male,Full,Third Party,25-30,683.0
-283,Male,Full,Comprehensive,71+,520.0
-284,Female,Full,Comprehensive,71+,491.0
-285,Female,Full,Comprehensive,71+,491.0
-286,Male,Full,Comprehensive,51-70,454.0
-287,Female,Full,Comprehensive,21-24,785.0
-288,Male,Full,Comprehensive,51-70,454.0
-289,Male,Full,Comprehensive,21-24,915.0
-290,Female,Full,Comprehensive,25-30,561.0
-291,Female,Full,Comprehensive,51-70,433.0
-292,Male,Provisional,Comprehensive,51-70,679.0
-293,Male,Full,Third Party,31-50,527.0
-294,Female,Full,Comprehensive,71+,491.0
-295,Female,Full,Third Party,31-50,497.0
-296,Female,Full,Comprehensive,31-50,456.0
-297,Female,Full,Comprehensive,71+,491.0
-298,Female,Full,Third Party,21-24,804.0
-299,Female,Full,Comprehensive,21-24,785.0
-300,Female,Full,Third Party,21-24,804.0
-301,Male,Full,Comprehensive,51-70,454.0
-302,Male,Full,Comprehensive,31-50,495.0
-303,Female,Full,Comprehensive,25-30,561.0
-304,Female,Full,Comprehensive,51-70,433.0
-305,Male,Full,Comprehensive,17-20,1388.0
-306,Male,Full,Comprehensive,51-70,454.0
-307,Male,Full,Third Party,51-70,472.0
-308,Female,Full,Comprehensive,21-24,785.0
-309,Female,Full,Comprehensive,17-20,1253.0
-310,Male,Full,Comprehensive,51-70,454.0
-311,Female,Full,Comprehensive,31-50,456.0
-312,Male,Full,Comprehensive,71+,520.0
-313,Male,Full,Comprehensive,25-30,657.0
-314,Female,Full,Comprehensive,31-50,456.0
-315,Male,Full,Comprehensive,31-50,495.0
-316,Male,Full,Third Party,25-30,683.0
-317,Male,Full,Third Party,71+,473.0
-318,Female,Full,Comprehensive,71+,491.0
-319,Female,Full,Comprehensive,25-30,561.0
-320,Male,Provisional,Comprehensive,31-50,776.0
-321,Male,Full,Comprehensive,25-30,657.0
-322,Female,Provisional,Comprehensive,51-70,633.0
-323,Male,Full,Comprehensive,31-50,495.0
-324,Male,Full,Third Party,17-20,1843.0
-325,Female,Full,Comprehensive,25-30,561.0
-326,Female,Full,Third Party,25-30,589.0
-327,Female,Full,Comprehensive,51-70,433.0
-328,Male,Full,Comprehensive,17-20,1388.0
-329,Female,Full,Comprehensive,17-20,1253.0
-330,Female,Full,Comprehensive,31-50,456.0
-331,Female,Full,Third Party,51-70,465.0
-332,Female,Full,Comprehensive,31-50,456.0
-333,Male,Full,Comprehensive,31-50,495.0
-334,Male,Full,Comprehensive,31-50,495.0
-335,Female,Full,Comprehensive,51-70,433.0
-336,Male,Full,Comprehensive,51-70,454.0
-337,Female,Full,Comprehensive,31-50,456.0
-338,Male,Full,Comprehensive,71+,520.0
-339,Male,Full,Comprehensive,51-70,454.0
-340,Female,Full,Comprehensive,31-50,456.0
-341,Male,Full,Comprehensive,31-50,495.0
-342,Male,Full,Comprehensive,21-24,915.0
-343,Female,Full,Comprehensive,31-50,456.0
-344,Female,Full,Comprehensive,51-70,433.0
-345,Female,Full,Comprehensive,51-70,433.0
-346,Male,Full,Comprehensive,25-30,657.0
-347,Female,Full,Comprehensive,51-70,433.0
-348,Female,Full,Comprehensive,31-50,456.0
-349,Female,Full,Third Party,71+,458.0
-350,Male,Full,Comprehensive,31-50,495.0
-351,Female,Full,Third Party,25-30,589.0
-352,Male,Full,Comprehensive,51-70,454.0
-353,Male,Full,Comprehensive,51-70,454.0
-354,Female,Full,Comprehensive,31-50,456.0
-355,Male,Full,Comprehensive,31-50,495.0
-356,Female,Full,Comprehensive,31-50,456.0
-357,Female,Full,Third Party,51-70,465.0
-358,Female,Provisional,Third Party,51-70,583.0
-359,Male,Full,Comprehensive,31-50,495.0
-360,Female,Full,Comprehensive,31-50,456.0
-361,Male,Full,Third Party,51-70,472.0
-362,Female,Full,Third Party,31-50,497.0
-363,Female,Full,Comprehensive,25-30,561.0
-364,Male,Full,Comprehensive,71+,520.0
-365,Male,Full,Comprehensive,71+,520.0
-366,Male,Full,Comprehensive,31-50,495.0
-367,Male,Full,Comprehensive,25-30,657.0
-368,Female,Full,Comprehensive,71+,491.0
-369,Female,Full,Comprehensive,31-50,456.0
-370,Male,Full,Third Party,31-50,527.0
-371,Male,Full,Comprehensive,71+,520.0
-372,Female,Full,Comprehensive,51-70,433.0
-373,Male,Full,Comprehensive,25-30,657.0
-374,Female,Full,Comprehensive,31-50,456.0
-375,Male,Full,Third Party,71+,473.0
-376,Female,Full,Comprehensive,31-50,456.0
-377,Male,Full,Comprehensive,51-70,454.0
-378,Male,Full,Comprehensive,25-30,657.0
-379,Female,Full,Comprehensive,31-50,456.0
-380,Male,Full,Comprehensive,25-30,657.0
-381,Male,Full,Third Party,25-30,683.0
-382,Male,Full,Comprehensive,71+,520.0
-383,Male,Full,Comprehensive,31-50,495.0
-384,Female,Full,Comprehensive,51-70,433.0
-385,Male,Full,Comprehensive,51-70,454.0
-386,Female,Full,Comprehensive,71+,491.0
-387,Male,Full,Comprehensive,25-30,657.0
-388,Male,Full,Comprehensive,31-50,495.0
-389,Male,Full,Third Party,51-70,472.0
-390,Male,Full,Comprehensive,71+,520.0
-391,Female,Full,Comprehensive,25-30,561.0
-392,Female,Full,Comprehensive,31-50,456.0
-393,Male,Full,Comprehensive,71+,520.0
-394,Male,Full,Third Party,31-50,527.0
-395,Male,Full,Comprehensive,31-50,495.0
-396,Male,Provisional,Comprehensive,51-70,679.0
-397,Male,Full,Comprehensive,51-70,454.0
-398,Female,Full,Comprehensive,31-50,456.0
-399,Female,Full,Comprehensive,31-50,456.0
-400,Female,Full,Comprehensive,31-50,456.0
-401,Male,Full,Comprehensive,31-50,495.0
-402,Male,Full,Third Party,31-50,527.0
-403,Male,Full,Comprehensive,51-70,454.0
-404,Female,Full,Comprehensive,51-70,433.0
-405,Female,Provisional,Comprehensive,31-50,724.0
-406,Female,Full,Comprehensive,51-70,433.0
-407,Male,Full,Third Party,31-50,527.0
-408,Female,Full,Comprehensive,71+,491.0
-409,Male,Full,Third Party,31-50,527.0
-410,Female,Full,Comprehensive,31-50,456.0
-411,Female,Full,Comprehensive,25-30,561.0
-412,Male,Provisional,Comprehensive,21-24,1356.0
-413,Male,Full,Comprehensive,71+,520.0
-414,Male,Full,Comprehensive,31-50,495.0
-415,Female,Full,Third Party,51-70,465.0
-416,Female,Full,Comprehensive,51-70,433.0
-417,Male,Full,Comprehensive,51-70,454.0
-418,Male,Full,Comprehensive,31-50,495.0
-419,Male,Full,Comprehensive,51-70,454.0
-420,Female,Full,Comprehensive,31-50,456.0
-421,Female,Full,Comprehensive,17-20,1253.0
-422,Female,Full,Comprehensive,31-50,456.0
-423,Female,Full,Third Party,25-30,589.0
-424,Male,Full,Third Party,31-50,527.0
-425,Male,Full,Comprehensive,31-50,495.0
-426,Female,Full,Comprehensive,31-50,456.0
-427,Female,Full,Comprehensive,31-50,456.0
-428,Male,Full,Comprehensive,51-70,454.0
-429,Female,Full,Comprehensive,31-50,456.0
-430,Female,Full,Comprehensive,51-70,433.0
-431,Male,Full,Comprehensive,31-50,495.0
-432,Male,Full,Comprehensive,31-50,495.0
-433,Female,Full,Comprehensive,51-70,433.0
-434,Female,Full,Third Party,25-30,589.0
-435,Female,Full,Comprehensive,31-50,456.0
-436,Male,Full,Third Party,31-50,527.0
-437,Male,Full,Comprehensive,51-70,454.0
-438,Female,Full,Comprehensive,21-24,785.0
-439,Male,Full,Comprehensive,25-30,657.0
-440,Female,Full,Third Party,31-50,497.0
-441,Male,Full,Third Party,31-50,527.0
-442,Male,Full,Comprehensive,25-30,657.0
-443,Male,Full,Comprehensive,25-30,657.0
-444,Male,Full,Comprehensive,25-30,657.0
-445,Male,Full,Comprehensive,31-50,495.0
-446,Male,Full,Comprehensive,25-30,657.0
-447,Male,Full,Comprehensive,31-50,495.0
-448,Male,Full,Comprehensive,31-50,495.0
-449,Male,Full,Comprehensive,25-30,657.0
-450,Male,Full,Third Party,21-24,959.0
-451,Male,Provisional,Comprehensive,51-70,679.0
-452,Female,Full,Comprehensive,31-50,456.0
-453,Female,Full,Comprehensive,51-70,433.0
-454,Male,Full,Comprehensive,21-24,915.0
-455,Male,Full,Comprehensive,21-24,915.0
-456,Male,Full,Comprehensive,51-70,454.0
-457,Male,Full,Third Party,51-70,472.0
-458,Male,Full,Comprehensive,51-70,454.0
-459,Male,Full,Comprehensive,51-70,454.0
-460,Female,Full,Third Party,25-30,589.0
-461,Female,Full,Third Party,71+,458.0
-462,Female,Full,Comprehensive,51-70,433.0
-463,Female,Full,Comprehensive,51-70,433.0
-464,Male,Full,Comprehensive,25-30,657.0
-465,Male,Full,Comprehensive,51-70,454.0
-466,Male,Full,Comprehensive,31-50,495.0
-467,Female,Full,Comprehensive,71+,491.0
-468,Male,Full,Comprehensive,21-24,915.0
-469,Female,Full,Comprehensive,71+,491.0
-470,Female,Full,Comprehensive,31-50,456.0
-471,Female,Full,Third Party,31-50,497.0
-472,Male,Full,Comprehensive,17-20,1388.0
-473,Female,Full,Comprehensive,25-30,561.0
-474,Male,Full,Third Party,31-50,527.0
-475,Female,Full,Comprehensive,51-70,433.0
-476,Female,Full,Comprehensive,31-50,456.0
-477,Female,Full,Comprehensive,51-70,433.0
-478,Male,Full,Comprehensive,31-50,495.0
-479,Female,Full,Comprehensive,31-50,456.0
-480,Male,Full,Comprehensive,31-50,495.0
-481,Female,Full,Comprehensive,31-50,456.0
-482,Female,Full,Comprehensive,51-70,433.0
-483,Male,Full,Third Party,51-70,472.0
-484,Male,Full,Comprehensive,31-50,495.0
-485,Female,Full,Comprehensive,51-70,433.0
-486,Female,Full,Third Party,17-20,1465.0
-487,Female,Full,Comprehensive,21-24,785.0
-488,Male,Provisional,Comprehensive,71+,677.0
-489,Male,Full,Comprehensive,31-50,495.0
-490,Female,Full,Comprehensive,51-70,433.0
-491,Male,Full,Comprehensive,51-70,454.0
-492,Female,Full,Comprehensive,31-50,456.0
-493,Male,Full,Comprehensive,51-70,454.0
-494,Male,Full,Comprehensive,31-50,495.0
-495,Male,Full,Comprehensive,21-24,915.0
-496,Male,Full,Comprehensive,31-50,495.0
-497,Male,Full,Comprehensive,31-50,495.0
-498,Male,Full,Comprehensive,71+,520.0
-499,Female,Full,Comprehensive,31-50,456.0
-500,Female,Full,Comprehensive,31-50,456.0
-501,Male,Full,Comprehensive,17-20,1388.0
-502,Male,Full,Comprehensive,25-30,657.0
-503,Male,Full,Comprehensive,31-50,495.0
-504,Male,Full,Comprehensive,31-50,495.0
-505,Male,Full,Comprehensive,71+,520.0
-506,Female,Full,Comprehensive,51-70,433.0
-507,Male,Full,Comprehensive,51-70,454.0
-508,Female,Full,Comprehensive,21-24,785.0
-509,Female,Full,Comprehensive,21-24,785.0
-510,Male,Full,Comprehensive,51-70,454.0
-511,Male,Provisional,Comprehensive,71+,677.0
-512,Male,Full,Third Party,31-50,527.0
-513,Male,Provisional,Comprehensive,51-70,679.0
-514,Male,Full,Comprehensive,51-70,454.0
-515,Female,Full,Comprehensive,51-70,433.0
-516,Female,Full,Comprehensive,31-50,456.0
-517,Female,Full,Third Party,31-50,497.0
-518,Female,Full,Third Party,51-70,465.0
-519,Female,Full,Third Party,31-50,497.0
-520,Female,Full,Comprehensive,21-24,785.0
-521,Male,Full,Comprehensive,31-50,495.0
-522,Female,Full,Comprehensive,51-70,433.0
-523,Female,Full,Comprehensive,17-20,1253.0
-524,Female,Full,Third Party,31-50,497.0
-525,Female,Full,Comprehensive,51-70,433.0
-526,Female,Full,Comprehensive,51-70,433.0
-527,Female,Full,Comprehensive,17-20,1253.0
-528,Female,Full,Comprehensive,31-50,456.0
-529,Female,Full,Comprehensive,31-50,456.0
-530,Female,Full,Comprehensive,71+,491.0
-531,Male,Full,Comprehensive,31-50,495.0
-532,Female,Full,Comprehensive,31-50,456.0
-533,Male,Full,Comprehensive,71+,520.0
-534,Female,Full,Comprehensive,31-50,456.0
-535,Male,Full,Comprehensive,71+,520.0
-536,Female,Full,Comprehensive,51-70,433.0
-537,Male,Full,Comprehensive,31-50,495.0
-538,Male,Full,Comprehensive,31-50,495.0
-539,Male,Full,Comprehensive,51-70,454.0
-540,Female,Full,Comprehensive,31-50,456.0
-541,Female,Full,Comprehensive,51-70,433.0
-542,Male,Full,Comprehensive,51-70,454.0
-543,Female,Full,Comprehensive,31-50,456.0
-544,Male,Full,Comprehensive,51-70,454.0
-545,Male,Full,Comprehensive,31-50,495.0
-546,Male,Full,Comprehensive,51-70,454.0
-547,Female,Full,Comprehensive,21-24,785.0
-548,Female,Full,Third Party,51-70,465.0
-549,Female,Full,Comprehensive,25-30,561.0
-550,Female,Full,Comprehensive,31-50,456.0
-551,Female,Full,Comprehensive,31-50,456.0
-552,Female,Full,Comprehensive,25-30,561.0
-553,Male,Provisional,Comprehensive,71+,677.0
-554,Male,Full,Comprehensive,51-70,454.0
-555,Male,Full,Comprehensive,31-50,495.0
-556,Female,Full,Comprehensive,71+,491.0
-557,Female,Full,Comprehensive,51-70,433.0
-558,Male,Full,Comprehensive,17-20,1388.0
-559,Female,Full,Comprehensive,71+,491.0
-560,Male,Full,Third Party,31-50,527.0
-561,Male,Full,Comprehensive,51-70,454.0
-562,Female,Full,Comprehensive,51-70,433.0
-563,Female,Full,Comprehensive,31-50,456.0
-564,Female,Full,Comprehensive,21-24,785.0
-565,Female,Full,Comprehensive,31-50,456.0
-566,Female,Full,Comprehensive,31-50,456.0
-567,Female,Full,Comprehensive,71+,491.0
-568,Female,Full,Comprehensive,31-50,456.0
-569,Female,Full,Third Party,17-20,1465.0
-570,Female,Full,Comprehensive,21-24,785.0
-571,Male,Full,Third Party,25-30,683.0
-572,Male,Full,Comprehensive,31-50,495.0
-573,Female,Full,Comprehensive,71+,491.0
-574,Female,Full,Comprehensive,31-50,456.0
-575,Female,Full,Comprehensive,51-70,433.0
-576,Female,Full,Comprehensive,21-24,785.0
-577,Female,Full,Comprehensive,51-70,433.0
-578,Male,Full,Third Party,21-24,959.0
-579,Male,Full,Comprehensive,17-20,1388.0
-580,Male,Full,Third Party,21-24,959.0
-581,Male,Full,Comprehensive,31-50,495.0
-582,Male,Full,Comprehensive,51-70,454.0
-583,Female,Full,Third Party,71+,458.0
-584,Female,Full,Comprehensive,25-30,561.0
-585,Female,Full,Comprehensive,31-50,456.0
-586,Male,Full,Third Party,31-50,527.0
-587,Male,Full,Comprehensive,31-50,495.0
-588,Male,Full,Comprehensive,51-70,454.0
-589,Male,Full,Comprehensive,21-24,915.0
-590,Male,Full,Comprehensive,71+,520.0
-591,Female,Full,Comprehensive,21-24,785.0
-592,Female,Full,Comprehensive,71+,491.0
-593,Male,Full,Comprehensive,31-50,495.0
-594,Female,Full,Third Party,71+,458.0
-595,Male,Full,Third Party,71+,473.0
-596,Female,Full,Comprehensive,21-24,785.0
-597,Male,Full,Comprehensive,51-70,454.0
-598,Male,Full,Comprehensive,25-30,657.0
-599,Male,Full,Comprehensive,31-50,495.0
-600,Female,Full,Comprehensive,31-50,456.0
-601,Female,Full,Third Party,31-50,497.0
-602,Female,Full,Comprehensive,31-50,456.0
-603,Female,Full,Comprehensive,31-50,456.0
-604,Female,Full,Comprehensive,51-70,433.0
-605,Male,Full,Comprehensive,51-70,454.0
-606,Female,Full,Comprehensive,31-50,456.0
-607,Female,Full,Third Party,25-30,589.0
-608,Male,Full,Third Party,25-30,683.0
-609,Female,Full,Comprehensive,21-24,785.0
-610,Male,Full,Third Party,51-70,472.0
-611,Female,Full,Comprehensive,51-70,433.0
-612,Female,Full,Comprehensive,51-70,433.0
-613,Male,Full,Comprehensive,31-50,495.0
-614,Male,Full,Comprehensive,25-30,657.0
-615,Male,Full,Third Party,51-70,472.0
-616,Female,Full,Third Party,31-50,497.0
-617,Female,Full,Comprehensive,31-50,456.0
-618,Female,Full,Comprehensive,71+,491.0
-619,Male,Full,Comprehensive,71+,520.0
-620,Female,Full,Comprehensive,25-30,561.0
-621,Male,Full,Comprehensive,71+,520.0
-622,Male,Full,Comprehensive,31-50,495.0
-623,Female,Full,Comprehensive,31-50,456.0
-624,Male,Full,Comprehensive,51-70,454.0
-625,Male,Full,Comprehensive,17-20,1388.0
-626,Female,Full,Comprehensive,51-70,433.0
-627,Male,Full,Comprehensive,71+,520.0
-628,Female,Full,Comprehensive,51-70,433.0
-629,Female,Full,Comprehensive,51-70,433.0
-630,Female,Full,Comprehensive,51-70,433.0
-631,Female,Full,Comprehensive,31-50,456.0
-632,Male,Full,Comprehensive,31-50,495.0
-633,Male,Full,Comprehensive,31-50,495.0
-634,Female,Full,Third Party,71+,458.0
-635,Female,Full,Comprehensive,17-20,1253.0
-636,Male,Full,Comprehensive,71+,520.0
-637,Male,Full,Comprehensive,25-30,657.0
-638,Male,Full,Comprehensive,17-20,1388.0
-639,Male,Full,Comprehensive,51-70,454.0
-640,Male,Full,Comprehensive,21-24,915.0
-641,Male,Full,Comprehensive,51-70,454.0
-642,Female,Full,Comprehensive,31-50,456.0
-643,Male,Full,Comprehensive,71+,520.0
-644,Female,Full,Comprehensive,51-70,433.0
-645,Female,Full,Comprehensive,31-50,456.0
-646,Female,Full,Comprehensive,51-70,433.0
-647,Female,Full,Comprehensive,21-24,785.0
-648,Male,Full,Comprehensive,31-50,495.0
-649,Female,Full,Comprehensive,71+,491.0
-650,Male,Full,Comprehensive,31-50,495.0
-651,Male,Full,Comprehensive,71+,520.0
-652,Male,Provisional,Comprehensive,51-70,679.0
-653,Female,Full,Comprehensive,31-50,456.0
-654,Female,Full,Comprehensive,31-50,456.0
-655,Female,Full,Comprehensive,51-70,433.0
-656,Male,Full,Comprehensive,51-70,454.0
-657,Female,Full,Comprehensive,31-50,456.0
-658,Female,Full,Third Party,51-70,465.0
-659,Male,Full,Comprehensive,17-20,1388.0
-660,Female,Provisional,Comprehensive,17-20,1777.0
-661,Male,Full,Third Party,31-50,527.0
-662,Male,Full,Comprehensive,31-50,495.0
-663,Female,Full,Comprehensive,31-50,456.0
-664,Female,Full,Comprehensive,31-50,456.0
-665,Female,Full,Comprehensive,31-50,456.0
-666,Female,Full,Comprehensive,51-70,433.0
-667,Male,Full,Comprehensive,17-20,1388.0
-668,Female,Full,Comprehensive,51-70,433.0
-669,Female,Full,Comprehensive,31-50,456.0
-670,Female,Full,Comprehensive,51-70,433.0
-671,Male,Full,Comprehensive,51-70,454.0
-672,Female,Full,Comprehensive,21-24,785.0
-673,Female,Full,Comprehensive,21-24,785.0
-674,Male,Full,Third Party,25-30,683.0
-675,Male,Full,Comprehensive,51-70,454.0
-676,Female,Full,Comprehensive,31-50,456.0
-677,Female,Full,Third Party,51-70,465.0
-678,Female,Full,Comprehensive,31-50,456.0
-679,Female,Full,Third Party,31-50,497.0
-680,Female,Full,Comprehensive,31-50,456.0
-681,Male,Full,Third Party,31-50,527.0
-682,Female,Full,Comprehensive,31-50,456.0
-683,Female,Full,Comprehensive,31-50,456.0
-684,Female,Provisional,Comprehensive,31-50,724.0
-685,Male,Full,Comprehensive,31-50,495.0
-686,Female,Full,Comprehensive,51-70,433.0
-687,Female,Full,Third Party,31-50,497.0
-688,Female,Provisional,Comprehensive,51-70,633.0
-689,Female,Full,Third Party,51-70,465.0
-690,Female,Full,Comprehensive,51-70,433.0
-691,Female,Full,Comprehensive,31-50,456.0
-692,Male,Full,Comprehensive,71+,520.0
-693,Female,Full,Comprehensive,51-70,433.0
-694,Female,Full,Comprehensive,71+,491.0
-695,Female,Full,Third Party,31-50,497.0
-696,Male,Provisional,Third Party,31-50,849.0
-697,Female,Full,Comprehensive,31-50,456.0
-698,Female,Full,Comprehensive,31-50,456.0
-699,Male,Full,Comprehensive,31-50,495.0
-700,Male,Full,Comprehensive,17-20,1388.0
-701,Male,Full,Third Party,71+,473.0
-702,Male,Full,Comprehensive,71+,520.0
-703,Female,Full,Comprehensive,71+,491.0
-704,Male,Full,Third Party,71+,473.0
-705,Female,Full,Comprehensive,51-70,433.0
-706,Female,Full,Comprehensive,31-50,456.0
-707,Male,Full,Third Party,21-24,959.0
-708,Male,Full,Comprehensive,21-24,915.0
-709,Female,Provisional,Comprehensive,31-50,724.0
-710,Female,Full,Comprehensive,31-50,456.0
-711,Male,Full,Comprehensive,51-70,454.0
-712,Male,Full,Comprehensive,51-70,454.0
-713,Female,Full,Comprehensive,51-70,433.0
-714,Male,Full,Comprehensive,51-70,454.0
-715,Male,Full,Comprehensive,31-50,495.0
-716,Male,Full,Comprehensive,17-20,1388.0
-717,Male,Full,Comprehensive,25-30,657.0
-718,Male,Full,Comprehensive,51-70,454.0
-719,Female,Full,Comprehensive,51-70,433.0
-720,Female,Full,Third Party,31-50,497.0
-721,Female,Full,Comprehensive,71+,491.0
-722,Female,Full,Third Party,17-20,1465.0
-723,Male,Full,Third Party,31-50,527.0
-724,Male,Full,Comprehensive,31-50,495.0
-725,Female,Full,Comprehensive,31-50,456.0
-726,Male,Full,Third Party,31-50,527.0
-727,Male,Full,Comprehensive,51-70,454.0
-728,Male,Full,Comprehensive,25-30,657.0
-729,Male,Full,Comprehensive,31-50,495.0
-730,Female,Full,Comprehensive,51-70,433.0
-731,Male,Full,Comprehensive,31-50,495.0
-732,Male,Full,Comprehensive,51-70,454.0
-733,Female,Full,Third Party,71+,458.0
-734,Female,Full,Comprehensive,51-70,433.0
-735,Male,Full,Comprehensive,31-50,495.0
-736,Male,Full,Comprehensive,21-24,915.0
-737,Male,Full,Comprehensive,31-50,495.0
-738,Female,Provisional,Comprehensive,51-70,633.0
-739,Female,Full,Comprehensive,17-20,1253.0
-740,Male,Full,Third Party,51-70,472.0
-741,Female,Full,Comprehensive,51-70,433.0
-742,Male,Provisional,Comprehensive,51-70,679.0
-743,Female,Full,Comprehensive,51-70,433.0
-744,Female,Full,Comprehensive,51-70,433.0
-745,Female,Full,Comprehensive,31-50,456.0
-746,Female,Full,Third Party,51-70,465.0
-747,Female,Full,Comprehensive,31-50,456.0
-748,Male,Full,Comprehensive,51-70,454.0
-749,Female,Full,Comprehensive,31-50,456.0
-750,Male,Full,Third Party,31-50,527.0
-751,Female,Full,Third Party,31-50,497.0
-752,Female,Full,Comprehensive,31-50,456.0
-753,Female,Full,Third Party,17-20,1465.0
-754,Male,Full,Comprehensive,31-50,495.0
-755,Female,Full,Comprehensive,25-30,561.0
-756,Female,Provisional,Comprehensive,51-70,633.0
-757,Male,Full,Comprehensive,31-50,495.0
-758,Male,Full,Third Party,31-50,527.0
-759,Female,Full,Comprehensive,31-50,456.0
-760,Male,Full,Comprehensive,71+,520.0
-761,Female,Full,Comprehensive,31-50,456.0
-762,Female,Full,Comprehensive,71+,491.0
-763,Male,Full,Comprehensive,31-50,495.0
-764,Female,Full,Comprehensive,31-50,456.0
-765,Male,Full,Comprehensive,51-70,454.0
-766,Female,Full,Comprehensive,31-50,456.0
-767,Male,Full,Comprehensive,17-20,1388.0
-768,Male,Full,Comprehensive,31-50,495.0
-769,Female,Full,Comprehensive,31-50,456.0
-770,Female,Full,Comprehensive,71+,491.0
-771,Female,Full,Comprehensive,21-24,785.0
-772,Female,Full,Comprehensive,51-70,433.0
-773,Female,Full,Comprehensive,31-50,456.0
-774,Male,Full,Comprehensive,31-50,495.0
-775,Female,Full,Third Party,51-70,465.0
-776,Female,Full,Third Party,25-30,589.0
-777,Female,Full,Comprehensive,71+,491.0
-778,Female,Full,Comprehensive,31-50,456.0
-779,Male,Full,Comprehensive,17-20,1388.0
-780,Female,Full,Comprehensive,31-50,456.0
-781,Female,Full,Comprehensive,25-30,561.0
-782,Female,Full,Comprehensive,31-50,456.0
-783,Female,Full,Comprehensive,31-50,456.0
-784,Female,Full,Comprehensive,31-50,456.0
-785,Female,Full,Comprehensive,71+,491.0
-786,Male,Full,Third Party,25-30,683.0
-787,Male,Full,Comprehensive,51-70,454.0
-788,Male,Full,Third Party,31-50,527.0
-789,Female,Full,Third Party,31-50,497.0
-790,Male,Full,Comprehensive,31-50,495.0
-791,Female,Full,Comprehensive,51-70,433.0
-792,Male,Full,Comprehensive,51-70,454.0
-793,Male,Full,Third Party,31-50,527.0
-794,Male,Full,Comprehensive,17-20,1388.0
-795,Male,Full,Comprehensive,31-50,495.0
-796,Male,Full,Comprehensive,51-70,454.0
-797,Male,Full,Third Party,17-20,1843.0
-798,Female,Full,Comprehensive,21-24,785.0
-799,Male,Full,Third Party,51-70,472.0
-800,Female,Full,Third Party,31-50,497.0
-801,Male,Full,Comprehensive,51-70,454.0
-802,Female,Full,Comprehensive,31-50,456.0
-803,Female,Full,Comprehensive,71+,491.0
-804,Male,Full,Comprehensive,31-50,495.0
-805,Male,Full,Comprehensive,31-50,495.0
-806,Female,Full,Comprehensive,51-70,433.0
-807,Male,Full,Third Party,31-50,527.0
-808,Male,Full,Third Party,51-70,472.0
-809,Male,Full,Third Party,25-30,683.0
-810,Male,Full,Third Party,21-24,959.0
-811,Male,Full,Comprehensive,31-50,495.0
-812,Female,Full,Comprehensive,31-50,456.0
-813,Male,Full,Comprehensive,31-50,495.0
-814,Male,Full,Comprehensive,25-30,657.0
-815,Male,Full,Comprehensive,25-30,657.0
-816,Male,Full,Third Party,25-30,683.0
-817,Female,Full,Comprehensive,17-20,1253.0
-818,Female,Full,Comprehensive,31-50,456.0
-819,Male,Full,Comprehensive,31-50,495.0
-820,Male,Full,Comprehensive,25-30,657.0
-821,Female,Full,Comprehensive,31-50,456.0
-822,Male,Full,Comprehensive,51-70,454.0
-823,Female,Full,Comprehensive,71+,491.0
-824,Male,Full,Comprehensive,31-50,495.0
-825,Female,Full,Comprehensive,31-50,456.0
-826,Male,Full,Comprehensive,25-30,657.0
-827,Male,Full,Comprehensive,31-50,495.0
-828,Male,Full,Comprehensive,31-50,495.0
-829,Female,Full,Comprehensive,25-30,561.0
-830,Female,Full,Comprehensive,25-30,561.0
-831,Female,Full,Comprehensive,31-50,456.0
-832,Female,Full,Comprehensive,71+,491.0
-833,Male,Full,Comprehensive,71+,520.0
-834,Male,Full,Comprehensive,31-50,495.0
-835,Male,Full,Comprehensive,51-70,454.0
-836,Female,Full,Comprehensive,71+,491.0
-837,Female,Full,Comprehensive,25-30,561.0
-838,Male,Full,Comprehensive,17-20,1388.0
-839,Male,Full,Comprehensive,31-50,495.0
-840,Female,Full,Comprehensive,31-50,456.0
-841,Female,Full,Comprehensive,51-70,433.0
-842,Female,Full,Third Party,31-50,497.0
-843,Male,Full,Comprehensive,51-70,454.0
-844,Male,Full,Comprehensive,51-70,454.0
-845,Male,Full,Comprehensive,31-50,495.0
-846,Male,Full,Third Party,25-30,683.0
-847,Male,Full,Third Party,31-50,527.0
-848,Female,Full,Comprehensive,51-70,433.0
-849,Male,Full,Comprehensive,31-50,495.0
-850,Female,Full,Comprehensive,21-24,785.0
-851,Female,Full,Third Party,31-50,497.0
-852,Male,Full,Comprehensive,25-30,657.0
-853,Male,Full,Comprehensive,31-50,495.0
-854,Female,Full,Third Party,51-70,465.0
-855,Male,Full,Third Party,17-20,1843.0
-856,Female,Full,Comprehensive,51-70,433.0
-857,Female,Full,Comprehensive,71+,491.0
-858,Female,Provisional,Comprehensive,51-70,633.0
-859,Female,Full,Comprehensive,25-30,561.0
-860,Female,Provisional,Third Party,31-50,757.0
-861,Male,Full,Comprehensive,21-24,915.0
-862,Male,Full,Comprehensive,51-70,454.0
-863,Male,Full,Comprehensive,51-70,454.0
-864,Female,Full,Third Party,71+,458.0
-865,Male,Full,Comprehensive,31-50,495.0
-866,Female,Full,Comprehensive,31-50,456.0
-867,Female,Full,Comprehensive,51-70,433.0
-868,Female,Full,Comprehensive,21-24,785.0
-869,Male,Full,Third Party,17-20,1843.0
-870,Male,Full,Comprehensive,31-50,495.0
-871,Male,Full,Comprehensive,71+,520.0
-872,Female,Full,Third Party,31-50,497.0
-873,Female,Full,Comprehensive,25-30,561.0
-874,Female,Full,Comprehensive,31-50,456.0
-875,Male,Full,Comprehensive,71+,520.0
-876,Female,Full,Comprehensive,31-50,456.0
-877,Male,Full,Comprehensive,71+,520.0
-878,Female,Full,Comprehensive,31-50,456.0
-879,Female,Full,Comprehensive,31-50,456.0
-880,Male,Full,Comprehensive,31-50,495.0
-881,Female,Full,Comprehensive,17-20,1253.0
-882,Female,Full,Comprehensive,51-70,433.0
-883,Male,Full,Comprehensive,31-50,495.0
-884,Female,Full,Comprehensive,71+,491.0
-885,Female,Full,Comprehensive,71+,491.0
-886,Male,Full,Comprehensive,21-24,915.0
-887,Female,Full,Comprehensive,31-50,456.0
-888,Female,Full,Third Party,31-50,497.0
-889,Female,Full,Third Party,31-50,497.0
-890,Male,Full,Comprehensive,31-50,495.0
-891,Female,Full,Comprehensive,71+,491.0
-892,Male,Full,Comprehensive,51-70,454.0
-893,Male,Full,Comprehensive,31-50,495.0
-894,Female,Full,Comprehensive,25-30,561.0
-895,Male,Full,Comprehensive,71+,520.0
-896,Male,Full,Comprehensive,31-50,495.0
-897,Male,Full,Third Party,17-20,1843.0
-898,Female,Full,Comprehensive,51-70,433.0
-899,Male,Full,Comprehensive,51-70,454.0
-900,Female,Full,Comprehensive,31-50,456.0
-901,Male,Full,Comprehensive,17-20,1388.0
-902,Female,Full,Comprehensive,71+,491.0
-903,Female,Full,Comprehensive,51-70,433.0
-904,Female,Full,Comprehensive,31-50,456.0
-905,Female,Full,Comprehensive,25-30,561.0
-906,Male,Full,Comprehensive,31-50,495.0
-907,Male,Full,Comprehensive,31-50,495.0
-908,Male,Full,Third Party,25-30,683.0
-909,Male,Full,Third Party,25-30,683.0
-910,Male,Full,Third Party,21-24,959.0
-911,Male,Full,Third Party,31-50,527.0
-912,Male,Full,Comprehensive,71+,520.0
-913,Female,Full,Comprehensive,31-50,456.0
-914,Female,Full,Comprehensive,51-70,433.0
-915,Male,Full,Comprehensive,31-50,495.0
-916,Female,Full,Third Party,51-70,465.0
-917,Female,Full,Comprehensive,51-70,433.0
-918,Male,Full,Comprehensive,51-70,454.0
-919,Female,Full,Comprehensive,21-24,785.0
-920,Male,Full,Comprehensive,31-50,495.0
-921,Female,Full,Third Party,31-50,497.0
-922,Male,Full,Third Party,25-30,683.0
-923,Male,Full,Comprehensive,51-70,454.0
-924,Male,Full,Comprehensive,21-24,915.0
-925,Female,Full,Comprehensive,71+,491.0
-926,Male,Full,Third Party,31-50,527.0
-927,Female,Full,Comprehensive,31-50,456.0
-928,Male,Full,Comprehensive,21-24,915.0
-929,Female,Full,Comprehensive,31-50,456.0
-930,Male,Full,Comprehensive,51-70,454.0
-931,Female,Full,Comprehensive,51-70,433.0
-932,Female,Full,Third Party,31-50,497.0
-933,Female,Full,Third Party,51-70,465.0
-934,Female,Full,Comprehensive,17-20,1253.0
-935,Female,Full,Comprehensive,31-50,456.0
-936,Male,Full,Comprehensive,71+,520.0
-937,Female,Full,Comprehensive,17-20,1253.0
-938,Female,Full,Comprehensive,51-70,433.0
-939,Female,Full,Comprehensive,31-50,456.0
-940,Female,Full,Comprehensive,31-50,456.0
-941,Female,Full,Comprehensive,17-20,1253.0
-942,Male,Full,Comprehensive,51-70,454.0
-943,Male,Full,Comprehensive,31-50,495.0
-944,Female,Full,Comprehensive,51-70,433.0
-945,Female,Full,Comprehensive,21-24,785.0
-946,Male,Full,Comprehensive,25-30,657.0
-947,Male,Full,Comprehensive,51-70,454.0
-948,Male,Full,Third Party,31-50,527.0
-949,Male,Full,Third Party,25-30,683.0
-950,Female,Full,Comprehensive,71+,491.0
-951,Female,Full,Comprehensive,25-30,561.0
-952,Male,Full,Comprehensive,31-50,495.0
-953,Female,Full,Third Party,25-30,589.0
-954,Female,Full,Comprehensive,31-50,456.0
-955,Female,Full,Third Party,31-50,497.0
-956,Male,Full,Comprehensive,17-20,1388.0
-957,Female,Full,Comprehensive,31-50,456.0
-958,Male,Full,Third Party,51-70,472.0
-959,Female,Full,Comprehensive,71+,491.0
-960,Female,Full,Third Party,51-70,465.0
-961,Female,Provisional,Comprehensive,31-50,724.0
-962,Male,Full,Third Party,51-70,472.0
-963,Male,Full,Third Party,31-50,527.0
-964,Female,Full,Comprehensive,31-50,456.0
-965,Male,Full,Comprehensive,31-50,495.0
-966,Female,Full,Comprehensive,51-70,433.0
-967,Male,Full,Comprehensive,31-50,495.0
-968,Male,Full,Comprehensive,31-50,495.0
-969,Female,Full,Comprehensive,31-50,456.0
-970,Female,Full,Comprehensive,17-20,1253.0
-971,Female,Full,Comprehensive,51-70,433.0
-972,Female,Full,Comprehensive,31-50,456.0
-973,Male,Full,Comprehensive,31-50,495.0
-974,Female,Full,Comprehensive,31-50,456.0
-975,Female,Full,Third Party,51-70,465.0
-976,Female,Full,Third Party,31-50,497.0
-977,Male,Full,Comprehensive,31-50,495.0
-978,Female,Full,Comprehensive,31-50,456.0
-979,Male,Full,Third Party,31-50,527.0
-980,Female,Full,Third Party,31-50,497.0
-981,Female,Full,Third Party,31-50,497.0
-982,Female,Full,Third Party,71+,458.0
-983,Female,Full,Third Party,51-70,465.0
-984,Male,Full,Comprehensive,31-50,495.0
-985,Female,Full,Comprehensive,31-50,456.0
-986,Female,Full,Comprehensive,25-30,561.0
-987,Female,Full,Comprehensive,31-50,456.0
-988,Male,Full,Comprehensive,31-50,495.0
-989,Male,Full,Third Party,31-50,527.0
-990,Female,Full,Third Party,51-70,465.0
-991,Male,Full,Comprehensive,51-70,454.0
-992,Female,Full,Comprehensive,25-30,561.0
-993,Male,Full,Comprehensive,31-50,495.0
-994,Female,Full,Comprehensive,31-50,456.0
-995,Female,Full,Comprehensive,51-70,433.0
-996,Female,Full,Third Party,31-50,497.0
-997,Female,Full,Comprehensive,31-50,456.0
-998,Male,Full,Comprehensive,25-30,657.0
-999,Male,Full,Comprehensive,25-30,657.0
+,Licence,Age,Premium,Gender,Cover
+0,Provisional,31-50,757.0,Female,Third Party
+1,Full,31-50,495.0,Male,Comprehensive
+2,Full,51-70,433.0,Female,Comprehensive
+3,Full,71+,473.0,Male,Third Party
+4,Full,51-70,454.0,Male,Comprehensive
+5,Provisional,31-50,776.0,Male,Comprehensive
+6,Full,31-50,495.0,Male,Comprehensive
+7,Full,51-70,433.0,Female,Comprehensive
+8,Full,31-50,497.0,Female,Third Party
+9,Full,71+,520.0,Male,Comprehensive
+10,Full,31-50,495.0,Male,Comprehensive
+11,Full,51-70,454.0,Male,Comprehensive
+12,Full,31-50,456.0,Female,Comprehensive
+13,Full,21-24,785.0,Female,Comprehensive
+14,Full,51-70,454.0,Male,Comprehensive
+15,Full,51-70,433.0,Female,Comprehensive
+16,Full,31-50,495.0,Male,Comprehensive
+17,Full,71+,491.0,Female,Comprehensive
+18,Full,31-50,456.0,Female,Comprehensive
+19,Full,51-70,454.0,Male,Comprehensive
+20,Full,31-50,495.0,Male,Comprehensive
+21,Full,31-50,495.0,Male,Comprehensive
+22,Full,31-50,456.0,Female,Comprehensive
+23,Full,31-50,527.0,Male,Third Party
+24,Full,51-70,454.0,Male,Comprehensive
+25,Full,51-70,472.0,Male,Third Party
+26,Full,71+,491.0,Female,Comprehensive
+27,Full,31-50,495.0,Male,Comprehensive
+28,Full,51-70,454.0,Male,Comprehensive
+29,Full,17-20,1388.0,Male,Comprehensive
+30,Full,31-50,495.0,Male,Comprehensive
+31,Full,17-20,1388.0,Male,Comprehensive
+32,Full,71+,491.0,Female,Comprehensive
+33,Provisional,51-70,639.0,Male,Third Party
+34,Full,25-30,657.0,Male,Comprehensive
+35,Full,71+,473.0,Male,Third Party
+36,Full,51-70,433.0,Female,Comprehensive
+37,Full,51-70,433.0,Female,Comprehensive
+38,Full,71+,491.0,Female,Comprehensive
+39,Full,31-50,495.0,Male,Comprehensive
+40,Full,31-50,456.0,Female,Comprehensive
+41,Full,71+,520.0,Male,Comprehensive
+42,Full,51-70,433.0,Female,Comprehensive
+43,Full,31-50,456.0,Female,Comprehensive
+44,Full,51-70,465.0,Female,Third Party
+45,Full,51-70,472.0,Male,Third Party
+46,Full,25-30,657.0,Male,Comprehensive
+47,Full,51-70,454.0,Male,Comprehensive
+48,Full,51-70,454.0,Male,Comprehensive
+49,Full,17-20,1253.0,Female,Comprehensive
+50,Full,71+,491.0,Female,Comprehensive
+51,Full,71+,491.0,Female,Comprehensive
+52,Provisional,71+,606.0,Female,Third Party
+53,Full,31-50,456.0,Female,Comprehensive
+54,Full,51-70,472.0,Male,Third Party
+55,Full,31-50,495.0,Male,Comprehensive
+56,Full,51-70,433.0,Female,Comprehensive
+57,Full,51-70,472.0,Male,Third Party
+58,Full,51-70,454.0,Male,Comprehensive
+59,Full,51-70,433.0,Female,Comprehensive
+60,Full,51-70,472.0,Male,Third Party
+61,Full,21-24,785.0,Female,Comprehensive
+62,Full,31-50,495.0,Male,Comprehensive
+63,Full,31-50,456.0,Female,Comprehensive
+64,Full,51-70,433.0,Female,Comprehensive
+65,Full,51-70,454.0,Male,Comprehensive
+66,Full,51-70,433.0,Female,Comprehensive
+67,Full,17-20,1388.0,Male,Comprehensive
+68,Full,31-50,495.0,Male,Comprehensive
+69,Full,51-70,433.0,Female,Comprehensive
+70,Full,25-30,657.0,Male,Comprehensive
+71,Full,51-70,454.0,Male,Comprehensive
+72,Full,31-50,495.0,Male,Comprehensive
+73,Full,25-30,657.0,Male,Comprehensive
+74,Full,51-70,454.0,Male,Comprehensive
+75,Full,51-70,454.0,Male,Comprehensive
+76,Full,71+,491.0,Female,Comprehensive
+77,Full,25-30,657.0,Male,Comprehensive
+78,Full,51-70,433.0,Female,Comprehensive
+79,Full,31-50,495.0,Male,Comprehensive
+80,Full,25-30,589.0,Female,Third Party
+81,Full,21-24,915.0,Male,Comprehensive
+82,Full,51-70,454.0,Male,Comprehensive
+83,Full,31-50,456.0,Female,Comprehensive
+84,Full,25-30,561.0,Female,Comprehensive
+85,Full,51-70,433.0,Female,Comprehensive
+86,Full,31-50,527.0,Male,Third Party
+87,Full,51-70,433.0,Female,Comprehensive
+88,Full,31-50,527.0,Male,Third Party
+89,Full,51-70,433.0,Female,Comprehensive
+90,Full,17-20,1465.0,Female,Third Party
+91,Full,31-50,495.0,Male,Comprehensive
+92,Full,51-70,454.0,Male,Comprehensive
+93,Full,31-50,497.0,Female,Third Party
+94,Full,51-70,454.0,Male,Comprehensive
+95,Full,31-50,527.0,Male,Third Party
+96,Full,31-50,495.0,Male,Comprehensive
+97,Full,31-50,495.0,Male,Comprehensive
+98,Provisional,51-70,633.0,Female,Comprehensive
+99,Full,17-20,1388.0,Male,Comprehensive
+100,Full,51-70,433.0,Female,Comprehensive
+101,Full,51-70,433.0,Female,Comprehensive
+102,Full,51-70,433.0,Female,Comprehensive
+103,Full,51-70,433.0,Female,Comprehensive
+104,Full,51-70,465.0,Female,Third Party
+105,Full,25-30,657.0,Male,Comprehensive
+106,Full,31-50,497.0,Female,Third Party
+107,Full,51-70,433.0,Female,Comprehensive
+108,Full,51-70,454.0,Male,Comprehensive
+109,Full,31-50,495.0,Male,Comprehensive
+110,Full,25-30,561.0,Female,Comprehensive
+111,Full,51-70,454.0,Male,Comprehensive
+112,Full,51-70,465.0,Female,Third Party
+113,Full,51-70,454.0,Male,Comprehensive
+114,Full,25-30,657.0,Male,Comprehensive
+115,Full,25-30,561.0,Female,Comprehensive
+116,Full,31-50,456.0,Female,Comprehensive
+117,Full,31-50,495.0,Male,Comprehensive
+118,Full,31-50,495.0,Male,Comprehensive
+119,Full,25-30,657.0,Male,Comprehensive
+120,Full,71+,520.0,Male,Comprehensive
+121,Full,31-50,456.0,Female,Comprehensive
+122,Full,31-50,456.0,Female,Comprehensive
+123,Full,51-70,433.0,Female,Comprehensive
+124,Full,31-50,495.0,Male,Comprehensive
+125,Full,31-50,456.0,Female,Comprehensive
+126,Full,51-70,454.0,Male,Comprehensive
+127,Full,31-50,495.0,Male,Comprehensive
+128,Full,31-50,527.0,Male,Third Party
+129,Full,71+,458.0,Female,Third Party
+130,Full,21-24,915.0,Male,Comprehensive
+131,Full,25-30,561.0,Female,Comprehensive
+132,Full,31-50,456.0,Female,Comprehensive
+133,Full,71+,520.0,Male,Comprehensive
+134,Full,21-24,959.0,Male,Third Party
+135,Full,25-30,561.0,Female,Comprehensive
+136,Full,51-70,433.0,Female,Comprehensive
+137,Full,25-30,657.0,Male,Comprehensive
+138,Full,51-70,454.0,Male,Comprehensive
+139,Full,25-30,657.0,Male,Comprehensive
+140,Full,51-70,433.0,Female,Comprehensive
+141,Full,31-50,527.0,Male,Third Party
+142,Full,17-20,1388.0,Male,Comprehensive
+143,Full,25-30,561.0,Female,Comprehensive
+144,Full,31-50,456.0,Female,Comprehensive
+145,Full,31-50,456.0,Female,Comprehensive
+146,Full,31-50,495.0,Male,Comprehensive
+147,Full,31-50,495.0,Male,Comprehensive
+148,Full,51-70,433.0,Female,Comprehensive
+149,Full,31-50,456.0,Female,Comprehensive
+150,Full,51-70,454.0,Male,Comprehensive
+151,Full,51-70,454.0,Male,Comprehensive
+152,Full,51-70,472.0,Male,Third Party
+153,Full,17-20,1253.0,Female,Comprehensive
+154,Full,71+,520.0,Male,Comprehensive
+155,Full,51-70,433.0,Female,Comprehensive
+156,Full,71+,491.0,Female,Comprehensive
+157,Full,31-50,456.0,Female,Comprehensive
+158,Full,25-30,657.0,Male,Comprehensive
+159,Full,21-24,785.0,Female,Comprehensive
+160,Full,51-70,433.0,Female,Comprehensive
+161,Full,71+,520.0,Male,Comprehensive
+162,Full,71+,520.0,Male,Comprehensive
+163,Full,31-50,495.0,Male,Comprehensive
+164,Full,51-70,454.0,Male,Comprehensive
+165,Full,51-70,454.0,Male,Comprehensive
+166,Full,31-50,456.0,Female,Comprehensive
+167,Full,71+,520.0,Male,Comprehensive
+168,Full,51-70,465.0,Female,Third Party
+169,Full,31-50,456.0,Female,Comprehensive
+170,Full,51-70,454.0,Male,Comprehensive
+171,Full,71+,491.0,Female,Comprehensive
+172,Full,31-50,495.0,Male,Comprehensive
+173,Full,31-50,456.0,Female,Comprehensive
+174,Full,51-70,433.0,Female,Comprehensive
+175,Full,71+,491.0,Female,Comprehensive
+176,Full,21-24,785.0,Female,Comprehensive
+177,Full,31-50,456.0,Female,Comprehensive
+178,Full,71+,491.0,Female,Comprehensive
+179,Full,31-50,456.0,Female,Comprehensive
+180,Full,31-50,497.0,Female,Third Party
+181,Full,71+,491.0,Female,Comprehensive
+182,Full,71+,520.0,Male,Comprehensive
+183,Full,25-30,561.0,Female,Comprehensive
+184,Full,25-30,561.0,Female,Comprehensive
+185,Full,71+,473.0,Male,Third Party
+186,Full,51-70,454.0,Male,Comprehensive
+187,Full,31-50,495.0,Male,Comprehensive
+188,Full,51-70,433.0,Female,Comprehensive
+189,Full,51-70,433.0,Female,Comprehensive
+190,Full,31-50,456.0,Female,Comprehensive
+191,Full,25-30,657.0,Male,Comprehensive
+192,Full,25-30,657.0,Male,Comprehensive
+193,Full,51-70,465.0,Female,Third Party
+194,Full,25-30,561.0,Female,Comprehensive
+195,Full,21-24,785.0,Female,Comprehensive
+196,Full,51-70,433.0,Female,Comprehensive
+197,Full,25-30,561.0,Female,Comprehensive
+198,Full,21-24,915.0,Male,Comprehensive
+199,Provisional,17-20,2135.0,Female,Third Party
+200,Full,51-70,433.0,Female,Comprehensive
+201,Full,31-50,456.0,Female,Comprehensive
+202,Full,31-50,497.0,Female,Third Party
+203,Full,31-50,495.0,Male,Comprehensive
+204,Full,71+,458.0,Female,Third Party
+205,Full,17-20,1253.0,Female,Comprehensive
+206,Full,71+,491.0,Female,Comprehensive
+207,Full,31-50,495.0,Male,Comprehensive
+208,Full,71+,491.0,Female,Comprehensive
+209,Full,31-50,495.0,Male,Comprehensive
+210,Full,31-50,495.0,Male,Comprehensive
+211,Full,51-70,454.0,Male,Comprehensive
+212,Full,31-50,456.0,Female,Comprehensive
+213,Full,71+,491.0,Female,Comprehensive
+214,Full,51-70,433.0,Female,Comprehensive
+215,Full,71+,491.0,Female,Comprehensive
+216,Full,17-20,1388.0,Male,Comprehensive
+217,Full,21-24,915.0,Male,Comprehensive
+218,Full,51-70,454.0,Male,Comprehensive
+219,Full,51-70,433.0,Female,Comprehensive
+220,Full,25-30,657.0,Male,Comprehensive
+221,Full,31-50,497.0,Female,Third Party
+222,Full,51-70,433.0,Female,Comprehensive
+223,Full,17-20,1388.0,Male,Comprehensive
+224,Full,51-70,454.0,Male,Comprehensive
+225,Full,31-50,495.0,Male,Comprehensive
+226,Full,25-30,561.0,Female,Comprehensive
+227,Full,51-70,433.0,Female,Comprehensive
+228,Full,51-70,472.0,Male,Third Party
+229,Full,51-70,454.0,Male,Comprehensive
+230,Full,51-70,433.0,Female,Comprehensive
+231,Full,31-50,495.0,Male,Comprehensive
+232,Full,31-50,495.0,Male,Comprehensive
+233,Full,51-70,433.0,Female,Comprehensive
+234,Full,51-70,433.0,Female,Comprehensive
+235,Full,51-70,433.0,Female,Comprehensive
+236,Full,31-50,495.0,Male,Comprehensive
+237,Provisional,17-20,2247.0,Male,Third Party
+238,Full,31-50,495.0,Male,Comprehensive
+239,Full,31-50,495.0,Male,Comprehensive
+240,Full,31-50,495.0,Male,Comprehensive
+241,Full,31-50,456.0,Female,Comprehensive
+242,Full,17-20,1388.0,Male,Comprehensive
+243,Full,17-20,1253.0,Female,Comprehensive
+244,Full,31-50,495.0,Male,Comprehensive
+245,Full,31-50,495.0,Male,Comprehensive
+246,Full,31-50,495.0,Male,Comprehensive
+247,Full,31-50,456.0,Female,Comprehensive
+248,Full,25-30,657.0,Male,Comprehensive
+249,Full,31-50,495.0,Male,Comprehensive
+250,Full,31-50,456.0,Female,Comprehensive
+251,Full,21-24,915.0,Male,Comprehensive
+252,Full,25-30,561.0,Female,Comprehensive
+253,Full,21-24,915.0,Male,Comprehensive
+254,Full,31-50,495.0,Male,Comprehensive
+255,Full,17-20,1253.0,Female,Comprehensive
+256,Full,31-50,497.0,Female,Third Party
+257,Full,31-50,456.0,Female,Comprehensive
+258,Full,31-50,456.0,Female,Comprehensive
+259,Full,51-70,433.0,Female,Comprehensive
+260,Full,51-70,454.0,Male,Comprehensive
+261,Full,71+,520.0,Male,Comprehensive
+262,Provisional,71+,677.0,Male,Comprehensive
+263,Full,31-50,495.0,Male,Comprehensive
+264,Full,71+,520.0,Male,Comprehensive
+265,Full,51-70,433.0,Female,Comprehensive
+266,Full,25-30,589.0,Female,Third Party
+267,Full,17-20,1253.0,Female,Comprehensive
+268,Full,31-50,497.0,Female,Third Party
+269,Full,17-20,1388.0,Male,Comprehensive
+270,Full,31-50,456.0,Female,Comprehensive
+271,Full,17-20,1388.0,Male,Comprehensive
+272,Full,71+,520.0,Male,Comprehensive
+273,Full,51-70,433.0,Female,Comprehensive
+274,Full,31-50,527.0,Male,Third Party
+275,Full,51-70,433.0,Female,Comprehensive
+276,Provisional,31-50,776.0,Male,Comprehensive
+277,Full,25-30,561.0,Female,Comprehensive
+278,Full,31-50,456.0,Female,Comprehensive
+279,Full,31-50,497.0,Female,Third Party
+280,Full,31-50,495.0,Male,Comprehensive
+281,Full,51-70,454.0,Male,Comprehensive
+282,Full,31-50,495.0,Male,Comprehensive
+283,Full,25-30,561.0,Female,Comprehensive
+284,Full,51-70,454.0,Male,Comprehensive
+285,Full,25-30,561.0,Female,Comprehensive
+286,Full,51-70,433.0,Female,Comprehensive
+287,Full,31-50,456.0,Female,Comprehensive
+288,Full,17-20,1253.0,Female,Comprehensive
+289,Provisional,51-70,679.0,Male,Comprehensive
+290,Full,31-50,497.0,Female,Third Party
+291,Full,31-50,527.0,Male,Third Party
+292,Full,71+,491.0,Female,Comprehensive
+293,Full,31-50,495.0,Male,Comprehensive
+294,Full,51-70,433.0,Female,Comprehensive
+295,Full,51-70,465.0,Female,Third Party
+296,Full,71+,491.0,Female,Comprehensive
+297,Full,51-70,433.0,Female,Comprehensive
+298,Full,71+,491.0,Female,Comprehensive
+299,Full,31-50,495.0,Male,Comprehensive
+300,Full,51-70,454.0,Male,Comprehensive
+301,Full,31-50,527.0,Male,Third Party
+302,Full,51-70,433.0,Female,Comprehensive
+303,Full,17-20,1388.0,Male,Comprehensive
+304,Full,31-50,456.0,Female,Comprehensive
+305,Full,31-50,495.0,Male,Comprehensive
+306,Full,31-50,495.0,Male,Comprehensive
+307,Full,31-50,456.0,Female,Comprehensive
+308,Full,31-50,456.0,Female,Comprehensive
+309,Provisional,51-70,633.0,Female,Comprehensive
+310,Full,31-50,495.0,Male,Comprehensive
+311,Full,31-50,495.0,Male,Comprehensive
+312,Full,21-24,785.0,Female,Comprehensive
+313,Full,51-70,433.0,Female,Comprehensive
+314,Full,51-70,465.0,Female,Third Party
+315,Full,31-50,495.0,Male,Comprehensive
+316,Full,31-50,456.0,Female,Comprehensive
+317,Full,51-70,465.0,Female,Third Party
+318,Full,31-50,456.0,Female,Comprehensive
+319,Full,51-70,472.0,Male,Third Party
+320,Full,51-70,472.0,Male,Third Party
+321,Full,51-70,433.0,Female,Comprehensive
+322,Full,71+,491.0,Female,Comprehensive
+323,Full,31-50,497.0,Female,Third Party
+324,Full,71+,491.0,Female,Comprehensive
+325,Full,71+,491.0,Female,Comprehensive
+326,Full,51-70,433.0,Female,Comprehensive
+327,Full,31-50,456.0,Female,Comprehensive
+328,Full,51-70,433.0,Female,Comprehensive
+329,Full,71+,491.0,Female,Comprehensive
+330,Full,17-20,1253.0,Female,Comprehensive
+331,Full,51-70,465.0,Female,Third Party
+332,Full,17-20,1253.0,Female,Comprehensive
+333,Full,71+,520.0,Male,Comprehensive
+334,Full,25-30,657.0,Male,Comprehensive
+335,Full,31-50,456.0,Female,Comprehensive
+336,Full,51-70,454.0,Male,Comprehensive
+337,Full,31-50,456.0,Female,Comprehensive
+338,Full,71+,520.0,Male,Comprehensive
+339,Full,51-70,465.0,Female,Third Party
+340,Full,71+,491.0,Female,Comprehensive
+341,Full,51-70,454.0,Male,Comprehensive
+342,Provisional,31-50,776.0,Male,Comprehensive
+343,Full,31-50,456.0,Female,Comprehensive
+344,Full,31-50,456.0,Female,Comprehensive
+345,Full,71+,473.0,Male,Third Party
+346,Full,31-50,495.0,Male,Comprehensive
+347,Full,31-50,456.0,Female,Comprehensive
+348,Full,71+,491.0,Female,Comprehensive
+349,Full,71+,520.0,Male,Comprehensive
+350,Full,31-50,495.0,Male,Comprehensive
+351,Full,25-30,561.0,Female,Comprehensive
+352,Full,25-30,657.0,Male,Comprehensive
+353,Full,31-50,495.0,Male,Comprehensive
+354,Full,21-24,915.0,Male,Comprehensive
+355,Full,51-70,454.0,Male,Comprehensive
+356,Full,31-50,456.0,Female,Comprehensive
+357,Full,51-70,433.0,Female,Comprehensive
+358,Full,31-50,456.0,Female,Comprehensive
+359,Full,51-70,433.0,Female,Comprehensive
+360,Full,25-30,683.0,Male,Third Party
+361,Full,71+,491.0,Female,Comprehensive
+362,Full,31-50,495.0,Male,Comprehensive
+363,Full,31-50,456.0,Female,Comprehensive
+364,Full,25-30,683.0,Male,Third Party
+365,Full,31-50,456.0,Female,Comprehensive
+366,Full,71+,491.0,Female,Comprehensive
+367,Full,31-50,456.0,Female,Comprehensive
+368,Full,71+,458.0,Female,Third Party
+369,Full,51-70,433.0,Female,Comprehensive
+370,Provisional,31-50,757.0,Female,Third Party
+371,Full,17-20,1253.0,Female,Comprehensive
+372,Full,51-70,454.0,Male,Comprehensive
+373,Full,51-70,454.0,Male,Comprehensive
+374,Full,25-30,683.0,Male,Third Party
+375,Full,25-30,657.0,Male,Comprehensive
+376,Full,71+,458.0,Female,Third Party
+377,Full,31-50,497.0,Female,Third Party
+378,Full,31-50,527.0,Male,Third Party
+379,Full,31-50,495.0,Male,Comprehensive
+380,Full,31-50,527.0,Male,Third Party
+381,Full,51-70,433.0,Female,Comprehensive
+382,Full,51-70,465.0,Female,Third Party
+383,Full,51-70,454.0,Male,Comprehensive
+384,Full,51-70,472.0,Male,Third Party
+385,Full,51-70,433.0,Female,Comprehensive
+386,Full,51-70,433.0,Female,Comprehensive
+387,Full,31-50,495.0,Male,Comprehensive
+388,Full,51-70,454.0,Male,Comprehensive
+389,Full,51-70,454.0,Male,Comprehensive
+390,Full,25-30,657.0,Male,Comprehensive
+391,Full,31-50,456.0,Female,Comprehensive
+392,Full,31-50,495.0,Male,Comprehensive
+393,Full,51-70,454.0,Male,Comprehensive
+394,Full,31-50,497.0,Female,Third Party
+395,Full,51-70,465.0,Female,Third Party
+396,Full,31-50,495.0,Male,Comprehensive
+397,Full,51-70,433.0,Female,Comprehensive
+398,Full,51-70,454.0,Male,Comprehensive
+399,Full,31-50,495.0,Male,Comprehensive
+400,Provisional,31-50,776.0,Male,Comprehensive
+401,Full,71+,491.0,Female,Comprehensive
+402,Full,51-70,454.0,Male,Comprehensive
+403,Full,31-50,456.0,Female,Comprehensive
+404,Full,31-50,495.0,Male,Comprehensive
+405,Full,21-24,785.0,Female,Comprehensive
+406,Full,31-50,456.0,Female,Comprehensive
+407,Provisional,31-50,724.0,Female,Comprehensive
+408,Full,51-70,472.0,Male,Third Party
+409,Full,51-70,433.0,Female,Comprehensive
+410,Full,25-30,657.0,Male,Comprehensive
+411,Full,31-50,456.0,Female,Comprehensive
+412,Full,31-50,495.0,Male,Comprehensive
+413,Full,31-50,495.0,Male,Comprehensive
+414,Full,31-50,495.0,Male,Comprehensive
+415,Provisional,71+,677.0,Male,Comprehensive
+416,Full,71+,520.0,Male,Comprehensive
+417,Full,51-70,454.0,Male,Comprehensive
+418,Full,31-50,497.0,Female,Third Party
+419,Full,71+,491.0,Female,Comprehensive
+420,Full,51-70,433.0,Female,Comprehensive
+421,Full,31-50,456.0,Female,Comprehensive
+422,Full,31-50,495.0,Male,Comprehensive
+423,Full,17-20,1253.0,Female,Comprehensive
+424,Full,51-70,454.0,Male,Comprehensive
+425,Full,51-70,433.0,Female,Comprehensive
+426,Full,51-70,465.0,Female,Third Party
+427,Full,71+,520.0,Male,Comprehensive
+428,Full,51-70,433.0,Female,Comprehensive
+429,Full,31-50,495.0,Male,Comprehensive
+430,Full,51-70,433.0,Female,Comprehensive
+431,Full,31-50,495.0,Male,Comprehensive
+432,Full,31-50,456.0,Female,Comprehensive
+433,Full,71+,520.0,Male,Comprehensive
+434,Full,25-30,561.0,Female,Comprehensive
+435,Full,51-70,433.0,Female,Comprehensive
+436,Full,51-70,454.0,Male,Comprehensive
+437,Full,51-70,433.0,Female,Comprehensive
+438,Full,51-70,454.0,Male,Comprehensive
+439,Full,31-50,495.0,Male,Comprehensive
+440,Full,17-20,1388.0,Male,Comprehensive
+441,Full,31-50,456.0,Female,Comprehensive
+442,Full,51-70,433.0,Female,Comprehensive
+443,Provisional,31-50,757.0,Female,Third Party
+444,Full,25-30,657.0,Male,Comprehensive
+445,Full,17-20,1388.0,Male,Comprehensive
+446,Full,51-70,433.0,Female,Comprehensive
+447,Full,31-50,456.0,Female,Comprehensive
+448,Full,31-50,495.0,Male,Comprehensive
+449,Full,21-24,804.0,Female,Third Party
+450,Full,71+,520.0,Male,Comprehensive
+451,Full,31-50,456.0,Female,Comprehensive
+452,Full,31-50,527.0,Male,Third Party
+453,Full,71+,458.0,Female,Third Party
+454,Full,51-70,454.0,Male,Comprehensive
+455,Full,17-20,1253.0,Female,Comprehensive
+456,Full,31-50,456.0,Female,Comprehensive
+457,Full,31-50,495.0,Male,Comprehensive
+458,Full,71+,520.0,Male,Comprehensive
+459,Full,71+,491.0,Female,Comprehensive
+460,Full,31-50,495.0,Male,Comprehensive
+461,Full,17-20,1253.0,Female,Comprehensive
+462,Full,25-30,561.0,Female,Comprehensive
+463,Full,31-50,456.0,Female,Comprehensive
+464,Full,31-50,456.0,Female,Comprehensive
+465,Full,51-70,433.0,Female,Comprehensive
+466,Full,71+,520.0,Male,Comprehensive
+467,Full,31-50,495.0,Male,Comprehensive
+468,Full,31-50,456.0,Female,Comprehensive
+469,Full,51-70,454.0,Male,Comprehensive
+470,Full,17-20,1253.0,Female,Comprehensive
+471,Full,25-30,561.0,Female,Comprehensive
+472,Full,17-20,1843.0,Male,Third Party
+473,Full,31-50,456.0,Female,Comprehensive
+474,Full,21-24,785.0,Female,Comprehensive
+475,Full,31-50,497.0,Female,Third Party
+476,Full,51-70,433.0,Female,Comprehensive
+477,Full,31-50,495.0,Male,Comprehensive
+478,Full,21-24,915.0,Male,Comprehensive
+479,Full,71+,520.0,Male,Comprehensive
+480,Full,21-24,959.0,Male,Third Party
+481,Full,21-24,804.0,Female,Third Party
+482,Full,51-70,454.0,Male,Comprehensive
+483,Full,31-50,456.0,Female,Comprehensive
+484,Full,25-30,657.0,Male,Comprehensive
+485,Full,51-70,454.0,Male,Comprehensive
+486,Full,31-50,495.0,Male,Comprehensive
+487,Full,51-70,454.0,Male,Comprehensive
+488,Full,51-70,465.0,Female,Third Party
+489,Full,31-50,456.0,Female,Comprehensive
+490,Full,51-70,433.0,Female,Comprehensive
+491,Full,31-50,456.0,Female,Comprehensive
+492,Full,71+,520.0,Male,Comprehensive
+493,Full,31-50,456.0,Female,Comprehensive
+494,Full,21-24,785.0,Female,Comprehensive
+495,Full,71+,520.0,Male,Comprehensive
+496,Full,21-24,915.0,Male,Comprehensive
+497,Full,21-24,785.0,Female,Comprehensive
+498,Full,31-50,456.0,Female,Comprehensive
+499,Full,51-70,472.0,Male,Third Party
+500,Full,17-20,1388.0,Male,Comprehensive
+501,Full,51-70,433.0,Female,Comprehensive
+502,Full,31-50,456.0,Female,Comprehensive
+503,Full,71+,491.0,Female,Comprehensive
+504,Full,25-30,589.0,Female,Third Party
+505,Full,31-50,456.0,Female,Comprehensive
+506,Full,31-50,456.0,Female,Comprehensive
+507,Full,31-50,527.0,Male,Third Party
+508,Full,31-50,495.0,Male,Comprehensive
+509,Full,31-50,456.0,Female,Comprehensive
+510,Full,31-50,495.0,Male,Comprehensive
+511,Full,31-50,497.0,Female,Third Party
+512,Full,21-24,959.0,Male,Third Party
+513,Full,31-50,495.0,Male,Comprehensive
+514,Full,51-70,472.0,Male,Third Party
+515,Full,17-20,1388.0,Male,Comprehensive
+516,Full,31-50,456.0,Female,Comprehensive
+517,Full,31-50,495.0,Male,Comprehensive
+518,Full,31-50,495.0,Male,Comprehensive
+519,Full,25-30,657.0,Male,Comprehensive
+520,Full,17-20,1253.0,Female,Comprehensive
+521,Full,51-70,433.0,Female,Comprehensive
+522,Full,25-30,561.0,Female,Comprehensive
+523,Full,31-50,495.0,Male,Comprehensive
+524,Full,51-70,433.0,Female,Comprehensive
+525,Full,51-70,454.0,Male,Comprehensive
+526,Full,31-50,456.0,Female,Comprehensive
+527,Full,31-50,497.0,Female,Third Party
+528,Full,51-70,454.0,Male,Comprehensive
+529,Full,25-30,561.0,Female,Comprehensive
+530,Full,31-50,497.0,Female,Third Party
+531,Full,51-70,454.0,Male,Comprehensive
+532,Full,25-30,589.0,Female,Third Party
+533,Full,31-50,495.0,Male,Comprehensive
+534,Full,31-50,456.0,Female,Comprehensive
+535,Full,71+,458.0,Female,Third Party
+536,Full,31-50,456.0,Female,Comprehensive
+537,Full,31-50,497.0,Female,Third Party
+538,Full,25-30,657.0,Male,Comprehensive
+539,Full,51-70,454.0,Male,Comprehensive
+540,Full,31-50,495.0,Male,Comprehensive
+541,Full,21-24,785.0,Female,Comprehensive
+542,Full,31-50,495.0,Male,Comprehensive
+543,Full,25-30,589.0,Female,Third Party
+544,Full,71+,520.0,Male,Comprehensive
+545,Full,51-70,454.0,Male,Comprehensive
+546,Full,31-50,497.0,Female,Third Party
+547,Full,31-50,456.0,Female,Comprehensive
+548,Full,51-70,472.0,Male,Third Party
+549,Full,31-50,495.0,Male,Comprehensive
+550,Provisional,51-70,679.0,Male,Comprehensive
+551,Full,71+,491.0,Female,Comprehensive
+552,Full,31-50,456.0,Female,Comprehensive
+553,Full,51-70,454.0,Male,Comprehensive
+554,Provisional,31-50,724.0,Female,Comprehensive
+555,Full,31-50,456.0,Female,Comprehensive
+556,Full,31-50,495.0,Male,Comprehensive
+557,Full,17-20,1388.0,Male,Comprehensive
+558,Full,17-20,1388.0,Male,Comprehensive
+559,Full,17-20,1843.0,Male,Third Party
+560,Full,31-50,456.0,Female,Comprehensive
+561,Full,31-50,495.0,Male,Comprehensive
+562,Full,71+,491.0,Female,Comprehensive
+563,Full,25-30,683.0,Male,Third Party
+564,Full,31-50,456.0,Female,Comprehensive
+565,Full,31-50,495.0,Male,Comprehensive
+566,Full,31-50,495.0,Male,Comprehensive
+567,Full,51-70,433.0,Female,Comprehensive
+568,Full,31-50,527.0,Male,Third Party
+569,Full,31-50,527.0,Male,Third Party
+570,Full,31-50,527.0,Male,Third Party
+571,Full,71+,473.0,Male,Third Party
+572,Full,31-50,456.0,Female,Comprehensive
+573,Full,31-50,456.0,Female,Comprehensive
+574,Full,31-50,527.0,Male,Third Party
+575,Full,51-70,433.0,Female,Comprehensive
+576,Full,17-20,1253.0,Female,Comprehensive
+577,Full,51-70,454.0,Male,Comprehensive
+578,Full,31-50,497.0,Female,Third Party
+579,Full,31-50,456.0,Female,Comprehensive
+580,Full,25-30,561.0,Female,Comprehensive
+581,Full,31-50,456.0,Female,Comprehensive
+582,Full,31-50,497.0,Female,Third Party
+583,Provisional,17-20,1954.0,Male,Comprehensive
+584,Full,31-50,456.0,Female,Comprehensive
+585,Full,31-50,456.0,Female,Comprehensive
+586,Full,31-50,495.0,Male,Comprehensive
+587,Full,31-50,495.0,Male,Comprehensive
+588,Full,51-70,433.0,Female,Comprehensive
+589,Full,25-30,657.0,Male,Comprehensive
+590,Full,51-70,433.0,Female,Comprehensive
+591,Full,31-50,497.0,Female,Third Party
+592,Full,31-50,527.0,Male,Third Party
+593,Full,51-70,433.0,Female,Comprehensive
+594,Full,51-70,472.0,Male,Third Party
+595,Provisional,51-70,633.0,Female,Comprehensive
+596,Full,51-70,433.0,Female,Comprehensive
+597,Full,71+,520.0,Male,Comprehensive
+598,Full,21-24,915.0,Male,Comprehensive
+599,Full,51-70,454.0,Male,Comprehensive
+600,Full,51-70,433.0,Female,Comprehensive
+601,Full,51-70,433.0,Female,Comprehensive
+602,Full,31-50,527.0,Male,Third Party
+603,Full,31-50,456.0,Female,Comprehensive
+604,Full,51-70,433.0,Female,Comprehensive
+605,Full,21-24,804.0,Female,Third Party
+606,Full,31-50,495.0,Male,Comprehensive
+607,Full,17-20,1253.0,Female,Comprehensive
+608,Full,21-24,959.0,Male,Third Party
+609,Provisional,51-70,679.0,Male,Comprehensive
+610,Full,17-20,1253.0,Female,Comprehensive
+611,Full,25-30,657.0,Male,Comprehensive
+612,Full,51-70,454.0,Male,Comprehensive
+613,Full,31-50,527.0,Male,Third Party
+614,Full,31-50,497.0,Female,Third Party
+615,Full,31-50,527.0,Male,Third Party
+616,Full,51-70,454.0,Male,Comprehensive
+617,Full,51-70,454.0,Male,Comprehensive
+618,Full,51-70,433.0,Female,Comprehensive
+619,Full,31-50,495.0,Male,Comprehensive
+620,Full,31-50,495.0,Male,Comprehensive
+621,Full,31-50,456.0,Female,Comprehensive
+622,Full,17-20,1843.0,Male,Third Party
+623,Full,21-24,785.0,Female,Comprehensive
+624,Full,31-50,527.0,Male,Third Party
+625,Full,25-30,561.0,Female,Comprehensive
+626,Full,51-70,433.0,Female,Comprehensive
+627,Full,51-70,472.0,Male,Third Party
+628,Full,25-30,561.0,Female,Comprehensive
+629,Full,51-70,433.0,Female,Comprehensive
+630,Full,51-70,454.0,Male,Comprehensive
+631,Full,51-70,465.0,Female,Third Party
+632,Full,71+,520.0,Male,Comprehensive
+633,Full,51-70,472.0,Male,Third Party
+634,Full,51-70,433.0,Female,Comprehensive
+635,Full,31-50,527.0,Male,Third Party
+636,Full,31-50,456.0,Female,Comprehensive
+637,Full,31-50,456.0,Female,Comprehensive
+638,Full,25-30,561.0,Female,Comprehensive
+639,Full,31-50,495.0,Male,Comprehensive
+640,Full,31-50,495.0,Male,Comprehensive
+641,Full,51-70,433.0,Female,Comprehensive
+642,Full,51-70,454.0,Male,Comprehensive
+643,Full,71+,491.0,Female,Comprehensive
+644,Full,51-70,433.0,Female,Comprehensive
+645,Full,71+,520.0,Male,Comprehensive
+646,Full,31-50,495.0,Male,Comprehensive
+647,Full,21-24,915.0,Male,Comprehensive
+648,Provisional,31-50,724.0,Female,Comprehensive
+649,Full,51-70,433.0,Female,Comprehensive
+650,Full,51-70,433.0,Female,Comprehensive
+651,Full,31-50,495.0,Male,Comprehensive
+652,Full,71+,491.0,Female,Comprehensive
+653,Full,71+,520.0,Male,Comprehensive
+654,Full,71+,458.0,Female,Third Party
+655,Full,17-20,1253.0,Female,Comprehensive
+656,Full,71+,491.0,Female,Comprehensive
+657,Full,51-70,454.0,Male,Comprehensive
+658,Full,71+,491.0,Female,Comprehensive
+659,Full,17-20,1253.0,Female,Comprehensive
+660,Full,17-20,1253.0,Female,Comprehensive
+661,Full,31-50,456.0,Female,Comprehensive
+662,Full,31-50,495.0,Male,Comprehensive
+663,Full,51-70,433.0,Female,Comprehensive
+664,Full,31-50,497.0,Female,Third Party
+665,Full,31-50,456.0,Female,Comprehensive
+666,Full,31-50,456.0,Female,Comprehensive
+667,Full,31-50,497.0,Female,Third Party
+668,Full,31-50,497.0,Female,Third Party
+669,Full,25-30,683.0,Male,Third Party
+670,Full,31-50,456.0,Female,Comprehensive
+671,Full,51-70,454.0,Male,Comprehensive
+672,Full,51-70,433.0,Female,Comprehensive
+673,Full,51-70,433.0,Female,Comprehensive
+674,Full,71+,520.0,Male,Comprehensive
+675,Full,31-50,495.0,Male,Comprehensive
+676,Full,31-50,456.0,Female,Comprehensive
+677,Full,71+,520.0,Male,Comprehensive
+678,Full,31-50,495.0,Male,Comprehensive
+679,Full,31-50,456.0,Female,Comprehensive
+680,Full,31-50,495.0,Male,Comprehensive
+681,Full,25-30,561.0,Female,Comprehensive
+682,Full,51-70,465.0,Female,Third Party
+683,Full,51-70,472.0,Male,Third Party
+684,Full,25-30,657.0,Male,Comprehensive
+685,Full,17-20,1465.0,Female,Third Party
+686,Full,31-50,456.0,Female,Comprehensive
+687,Full,25-30,561.0,Female,Comprehensive
+688,Full,51-70,465.0,Female,Third Party
+689,Full,31-50,456.0,Female,Comprehensive
+690,Full,31-50,495.0,Male,Comprehensive
+691,Full,31-50,497.0,Female,Third Party
+692,Full,25-30,657.0,Male,Comprehensive
+693,Full,51-70,454.0,Male,Comprehensive
+694,Full,17-20,1465.0,Female,Third Party
+695,Full,31-50,456.0,Female,Comprehensive
+696,Full,71+,491.0,Female,Comprehensive
+697,Full,51-70,472.0,Male,Third Party
+698,Full,31-50,456.0,Female,Comprehensive
+699,Full,51-70,433.0,Female,Comprehensive
+700,Full,25-30,561.0,Female,Comprehensive
+701,Full,25-30,657.0,Male,Comprehensive
+702,Full,71+,520.0,Male,Comprehensive
+703,Full,31-50,495.0,Male,Comprehensive
+704,Provisional,51-70,633.0,Female,Comprehensive
+705,Full,71+,520.0,Male,Comprehensive
+706,Full,25-30,589.0,Female,Third Party
+707,Full,31-50,495.0,Male,Comprehensive
+708,Full,17-20,1388.0,Male,Comprehensive
+709,Full,71+,520.0,Male,Comprehensive
+710,Provisional,31-50,849.0,Male,Third Party
+711,Full,31-50,497.0,Female,Third Party
+712,Full,31-50,495.0,Male,Comprehensive
+713,Full,31-50,495.0,Male,Comprehensive
+714,Full,31-50,456.0,Female,Comprehensive
+715,Full,17-20,1253.0,Female,Comprehensive
+716,Full,21-24,915.0,Male,Comprehensive
+717,Full,71+,520.0,Male,Comprehensive
+718,Full,51-70,454.0,Male,Comprehensive
+719,Full,71+,520.0,Male,Comprehensive
+720,Full,51-70,454.0,Male,Comprehensive
+721,Full,17-20,1388.0,Male,Comprehensive
+722,Full,25-30,657.0,Male,Comprehensive
+723,Full,71+,491.0,Female,Comprehensive
+724,Full,51-70,454.0,Male,Comprehensive
+725,Full,31-50,495.0,Male,Comprehensive
+726,Full,17-20,1253.0,Female,Comprehensive
+727,Full,31-50,527.0,Male,Third Party
+728,Provisional,71+,677.0,Male,Comprehensive
+729,Full,51-70,454.0,Male,Comprehensive
+730,Full,51-70,454.0,Male,Comprehensive
+731,Full,31-50,495.0,Male,Comprehensive
+732,Full,71+,491.0,Female,Comprehensive
+733,Full,31-50,495.0,Male,Comprehensive
+734,Full,31-50,456.0,Female,Comprehensive
+735,Full,25-30,657.0,Male,Comprehensive
+736,Full,31-50,456.0,Female,Comprehensive
+737,Full,31-50,456.0,Female,Comprehensive
+738,Full,25-30,657.0,Male,Comprehensive
+739,Full,31-50,495.0,Male,Comprehensive
+740,Provisional,71+,670.0,Female,Comprehensive
+741,Full,31-50,456.0,Female,Comprehensive
+742,Full,31-50,527.0,Male,Third Party
+743,Full,71+,491.0,Female,Comprehensive
+744,Full,31-50,456.0,Female,Comprehensive
+745,Full,17-20,1253.0,Female,Comprehensive
+746,Full,51-70,433.0,Female,Comprehensive
+747,Full,31-50,495.0,Male,Comprehensive
+748,Full,51-70,454.0,Male,Comprehensive
+749,Full,31-50,456.0,Female,Comprehensive
+750,Full,17-20,1253.0,Female,Comprehensive
+751,Full,21-24,915.0,Male,Comprehensive
+752,Full,51-70,433.0,Female,Comprehensive
+753,Full,71+,491.0,Female,Comprehensive
+754,Full,31-50,456.0,Female,Comprehensive
+755,Full,51-70,433.0,Female,Comprehensive
+756,Full,31-50,456.0,Female,Comprehensive
+757,Full,51-70,454.0,Male,Comprehensive
+758,Full,31-50,456.0,Female,Comprehensive
+759,Full,71+,491.0,Female,Comprehensive
+760,Full,51-70,433.0,Female,Comprehensive
+761,Full,71+,458.0,Female,Third Party
+762,Full,21-24,915.0,Male,Comprehensive
+763,Full,17-20,1388.0,Male,Comprehensive
+764,Full,31-50,495.0,Male,Comprehensive
+765,Full,51-70,433.0,Female,Comprehensive
+766,Full,51-70,454.0,Male,Comprehensive
+767,Full,51-70,454.0,Male,Comprehensive
+768,Full,17-20,1253.0,Female,Comprehensive
+769,Full,25-30,657.0,Male,Comprehensive
+770,Full,31-50,495.0,Male,Comprehensive
+771,Full,31-50,497.0,Female,Third Party
+772,Full,31-50,527.0,Male,Third Party
+773,Full,51-70,454.0,Male,Comprehensive
+774,Full,51-70,454.0,Male,Comprehensive
+775,Full,51-70,433.0,Female,Comprehensive
+776,Full,31-50,495.0,Male,Comprehensive
+777,Full,31-50,456.0,Female,Comprehensive
+778,Provisional,51-70,633.0,Female,Comprehensive
+779,Full,25-30,657.0,Male,Comprehensive
+780,Full,31-50,527.0,Male,Third Party
+781,Full,51-70,433.0,Female,Comprehensive
+782,Full,21-24,785.0,Female,Comprehensive
+783,Full,31-50,497.0,Female,Third Party
+784,Full,31-50,456.0,Female,Comprehensive
+785,Full,31-50,497.0,Female,Third Party
+786,Full,25-30,561.0,Female,Comprehensive
+787,Full,31-50,495.0,Male,Comprehensive
+788,Full,31-50,495.0,Male,Comprehensive
+789,Full,51-70,454.0,Male,Comprehensive
+790,Full,31-50,497.0,Female,Third Party
+791,Full,31-50,456.0,Female,Comprehensive
+792,Full,51-70,433.0,Female,Comprehensive
+793,Full,31-50,495.0,Male,Comprehensive
+794,Full,51-70,433.0,Female,Comprehensive
+795,Full,31-50,495.0,Male,Comprehensive
+796,Full,31-50,527.0,Male,Third Party
+797,Full,31-50,495.0,Male,Comprehensive
+798,Full,71+,491.0,Female,Comprehensive
+799,Provisional,31-50,724.0,Female,Comprehensive
+800,Full,51-70,454.0,Male,Comprehensive
+801,Full,51-70,465.0,Female,Third Party
+802,Full,31-50,456.0,Female,Comprehensive
+803,Full,31-50,456.0,Female,Comprehensive
+804,Provisional,31-50,776.0,Male,Comprehensive
+805,Full,31-50,456.0,Female,Comprehensive
+806,Full,31-50,495.0,Male,Comprehensive
+807,Full,21-24,785.0,Female,Comprehensive
+808,Full,17-20,1388.0,Male,Comprehensive
+809,Full,31-50,495.0,Male,Comprehensive
+810,Full,31-50,527.0,Male,Third Party
+811,Full,25-30,657.0,Male,Comprehensive
+812,Full,51-70,433.0,Female,Comprehensive
+813,Full,31-50,456.0,Female,Comprehensive
+814,Full,71+,491.0,Female,Comprehensive
+815,Full,51-70,433.0,Female,Comprehensive
+816,Full,31-50,456.0,Female,Comprehensive
+817,Full,51-70,454.0,Male,Comprehensive
+818,Full,31-50,495.0,Male,Comprehensive
+819,Full,25-30,657.0,Male,Comprehensive
+820,Full,51-70,472.0,Male,Third Party
+821,Full,51-70,433.0,Female,Comprehensive
+822,Full,31-50,456.0,Female,Comprehensive
+823,Full,17-20,1253.0,Female,Comprehensive
+824,Full,31-50,456.0,Female,Comprehensive
+825,Full,21-24,804.0,Female,Third Party
+826,Full,71+,520.0,Male,Comprehensive
+827,Full,31-50,456.0,Female,Comprehensive
+828,Full,51-70,454.0,Male,Comprehensive
+829,Full,31-50,495.0,Male,Comprehensive
+830,Full,31-50,456.0,Female,Comprehensive
+831,Full,71+,520.0,Male,Comprehensive
+832,Full,31-50,527.0,Male,Third Party
+833,Provisional,31-50,776.0,Male,Comprehensive
+834,Full,31-50,527.0,Male,Third Party
+835,Full,51-70,433.0,Female,Comprehensive
+836,Full,51-70,433.0,Female,Comprehensive
+837,Full,25-30,683.0,Male,Third Party
+838,Full,31-50,495.0,Male,Comprehensive
+839,Full,51-70,433.0,Female,Comprehensive
+840,Full,51-70,433.0,Female,Comprehensive
+841,Full,51-70,433.0,Female,Comprehensive
+842,Full,17-20,1253.0,Female,Comprehensive
+843,Full,31-50,456.0,Female,Comprehensive
+844,Full,17-20,1388.0,Male,Comprehensive
+845,Full,71+,520.0,Male,Comprehensive
+846,Full,31-50,456.0,Female,Comprehensive
+847,Full,31-50,527.0,Male,Third Party
+848,Full,17-20,1843.0,Male,Third Party
+849,Full,51-70,433.0,Female,Comprehensive
+850,Full,51-70,465.0,Female,Third Party
+851,Full,71+,520.0,Male,Comprehensive
+852,Full,31-50,495.0,Male,Comprehensive
+853,Full,31-50,495.0,Male,Comprehensive
+854,Full,51-70,472.0,Male,Third Party
+855,Full,71+,473.0,Male,Third Party
+856,Full,51-70,433.0,Female,Comprehensive
+857,Full,31-50,456.0,Female,Comprehensive
+858,Full,25-30,657.0,Male,Comprehensive
+859,Full,31-50,456.0,Female,Comprehensive
+860,Full,51-70,454.0,Male,Comprehensive
+861,Full,21-24,915.0,Male,Comprehensive
+862,Full,31-50,456.0,Female,Comprehensive
+863,Provisional,51-70,639.0,Male,Third Party
+864,Full,31-50,456.0,Female,Comprehensive
+865,Full,17-20,1465.0,Female,Third Party
+866,Full,31-50,527.0,Male,Third Party
+867,Full,51-70,433.0,Female,Comprehensive
+868,Full,51-70,433.0,Female,Comprehensive
+869,Full,51-70,433.0,Female,Comprehensive
+870,Full,71+,458.0,Female,Third Party
+871,Full,51-70,433.0,Female,Comprehensive
+872,Full,31-50,456.0,Female,Comprehensive
+873,Full,71+,491.0,Female,Comprehensive
+874,Full,21-24,804.0,Female,Third Party
+875,Full,31-50,495.0,Male,Comprehensive
+876,Full,31-50,456.0,Female,Comprehensive
+877,Full,21-24,785.0,Female,Comprehensive
+878,Full,51-70,465.0,Female,Third Party
+879,Full,17-20,1388.0,Male,Comprehensive
+880,Full,31-50,456.0,Female,Comprehensive
+881,Provisional,51-70,633.0,Female,Comprehensive
+882,Full,51-70,433.0,Female,Comprehensive
+883,Full,51-70,472.0,Male,Third Party
+884,Full,71+,520.0,Male,Comprehensive
+885,Full,31-50,456.0,Female,Comprehensive
+886,Full,31-50,527.0,Male,Third Party
+887,Full,21-24,785.0,Female,Comprehensive
+888,Full,51-70,433.0,Female,Comprehensive
+889,Full,71+,491.0,Female,Comprehensive
+890,Full,31-50,456.0,Female,Comprehensive
+891,Full,21-24,915.0,Male,Comprehensive
+892,Full,31-50,495.0,Male,Comprehensive
+893,Full,51-70,433.0,Female,Comprehensive
+894,Full,17-20,1388.0,Male,Comprehensive
+895,Full,31-50,495.0,Male,Comprehensive
+896,Full,31-50,456.0,Female,Comprehensive
+897,Full,51-70,433.0,Female,Comprehensive
+898,Full,17-20,1388.0,Male,Comprehensive
+899,Full,71+,458.0,Female,Third Party
+900,Full,51-70,433.0,Female,Comprehensive
+901,Full,71+,458.0,Female,Third Party
+902,Full,51-70,433.0,Female,Comprehensive
+903,Full,25-30,657.0,Male,Comprehensive
+904,Full,51-70,433.0,Female,Comprehensive
+905,Full,51-70,433.0,Female,Comprehensive
+906,Full,31-50,527.0,Male,Third Party
+907,Full,31-50,456.0,Female,Comprehensive
+908,Full,31-50,497.0,Female,Third Party
+909,Full,25-30,683.0,Male,Third Party
+910,Full,17-20,1253.0,Female,Comprehensive
+911,Full,17-20,1388.0,Male,Comprehensive
+912,Full,31-50,495.0,Male,Comprehensive
+913,Full,31-50,456.0,Female,Comprehensive
+914,Full,51-70,454.0,Male,Comprehensive
+915,Full,31-50,495.0,Male,Comprehensive
+916,Full,51-70,454.0,Male,Comprehensive
+917,Full,31-50,456.0,Female,Comprehensive
+918,Full,31-50,495.0,Male,Comprehensive
+919,Provisional,31-50,776.0,Male,Comprehensive
+920,Full,71+,491.0,Female,Comprehensive
+921,Full,51-70,454.0,Male,Comprehensive
+922,Full,25-30,657.0,Male,Comprehensive
+923,Full,31-50,495.0,Male,Comprehensive
+924,Full,31-50,456.0,Female,Comprehensive
+925,Full,21-24,785.0,Female,Comprehensive
+926,Full,51-70,454.0,Male,Comprehensive
+927,Full,31-50,497.0,Female,Third Party
+928,Full,71+,491.0,Female,Comprehensive
+929,Full,25-30,561.0,Female,Comprehensive
+930,Full,51-70,465.0,Female,Third Party
+931,Full,31-50,456.0,Female,Comprehensive
+932,Full,25-30,561.0,Female,Comprehensive
+933,Full,31-50,456.0,Female,Comprehensive
+934,Full,31-50,456.0,Female,Comprehensive
+935,Full,25-30,657.0,Male,Comprehensive
+936,Full,31-50,456.0,Female,Comprehensive
+937,Full,51-70,433.0,Female,Comprehensive
+938,Full,71+,520.0,Male,Comprehensive
+939,Full,71+,491.0,Female,Comprehensive
+940,Full,31-50,495.0,Male,Comprehensive
+941,Full,71+,491.0,Female,Comprehensive
+942,Full,31-50,456.0,Female,Comprehensive
+943,Full,31-50,495.0,Male,Comprehensive
+944,Full,25-30,561.0,Female,Comprehensive
+945,Full,71+,520.0,Male,Comprehensive
+946,Full,51-70,465.0,Female,Third Party
+947,Full,71+,491.0,Female,Comprehensive
+948,Full,25-30,683.0,Male,Third Party
+949,Full,31-50,495.0,Male,Comprehensive
+950,Full,51-70,472.0,Male,Third Party
+951,Full,71+,473.0,Male,Third Party
+952,Full,71+,491.0,Female,Comprehensive
+953,Full,31-50,497.0,Female,Third Party
+954,Provisional,25-30,913.0,Female,Comprehensive
+955,Full,31-50,456.0,Female,Comprehensive
+956,Full,31-50,495.0,Male,Comprehensive
+957,Full,51-70,465.0,Female,Third Party
+958,Full,31-50,456.0,Female,Comprehensive
+959,Full,31-50,456.0,Female,Comprehensive
+960,Full,31-50,456.0,Female,Comprehensive
+961,Full,31-50,456.0,Female,Comprehensive
+962,Full,31-50,456.0,Female,Comprehensive
+963,Full,21-24,785.0,Female,Comprehensive
+964,Full,21-24,915.0,Male,Comprehensive
+965,Full,51-70,454.0,Male,Comprehensive
+966,Full,31-50,497.0,Female,Third Party
+967,Full,31-50,456.0,Female,Comprehensive
+968,Full,31-50,456.0,Female,Comprehensive
+969,Full,31-50,495.0,Male,Comprehensive
+970,Full,25-30,683.0,Male,Third Party
+971,Full,31-50,495.0,Male,Comprehensive
+972,Full,31-50,495.0,Male,Comprehensive
+973,Full,31-50,495.0,Male,Comprehensive
+974,Full,51-70,433.0,Female,Comprehensive
+975,Full,31-50,495.0,Male,Comprehensive
+976,Full,31-50,456.0,Female,Comprehensive
+977,Full,71+,491.0,Female,Comprehensive
+978,Full,51-70,433.0,Female,Comprehensive
+979,Full,31-50,495.0,Male,Comprehensive
+980,Full,31-50,495.0,Male,Comprehensive
+981,Full,31-50,495.0,Male,Comprehensive
+982,Full,71+,520.0,Male,Comprehensive
+983,Full,31-50,497.0,Female,Third Party
+984,Full,31-50,495.0,Male,Comprehensive
+985,Full,17-20,1253.0,Female,Comprehensive
+986,Full,31-50,495.0,Male,Comprehensive
+987,Full,31-50,495.0,Male,Comprehensive
+988,Full,51-70,433.0,Female,Comprehensive
+989,Full,51-70,454.0,Male,Comprehensive
+990,Full,31-50,456.0,Female,Comprehensive
+991,Full,31-50,456.0,Female,Comprehensive
+992,Full,31-50,456.0,Female,Comprehensive
+993,Full,31-50,456.0,Female,Comprehensive
+994,Full,31-50,497.0,Female,Third Party
+995,Full,21-24,785.0,Female,Comprehensive
+996,Full,51-70,454.0,Male,Comprehensive
+997,Full,31-50,495.0,Male,Comprehensive
+998,Full,17-20,1388.0,Male,Comprehensive
+999,Full,21-24,785.0,Female,Comprehensive
