@@ -1,17 +1,17 @@
-              Unnamed: 0                                                      \
-                   count        mean         std  min     25%    50%     75%   
-Cover                                                                          
-Comprehensive      830.0  501.484337  289.628578  0.0  253.25  504.0  749.75   
-Third Party        170.0  489.811765  285.483064  8.0  227.00  477.5  745.50   
+              Unnamed: 0                                                     \
+                   count        mean         std   min    25%    50%    75%   
+Cover                                                                         
+Comprehensive      819.0  498.208791  288.268478   0.0  245.5  504.0  745.5   
+Third Party        181.0  505.342541  292.032692  10.0  263.0  475.0  760.0   
 
                      Premium                                               \
                  max   count        mean         std    min    25%    50%   
 Cover                                                                       
-Comprehensive  999.0   830.0  585.979518  246.428865  433.0  456.0  495.0   
-Third Party    977.0   170.0  616.876471  306.645975  458.0  472.0  497.0   
+Comprehensive  999.0   819.0  566.203907  223.413343  433.0  454.0  491.0   
+Third Party    998.0   181.0  635.160221  333.585757  458.0  472.0  497.0   
 
                               
                  75%     max  
 Cover                         
-Comprehensive  561.0  1954.0  
+Comprehensive  561.0  1777.0  
 Third Party    589.0  1843.0  
