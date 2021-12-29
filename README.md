@@ -11,6 +11,7 @@ your choosing. You may pick any phenomenon you wish – you might pick one that 
 Then, rather than collect data related to the phenomenon, you should model and synthesise such data using Python. We suggest you use the numpy.random package for this purpose. 
 
 Specifically, in this project you should:
+
 • Choose a real-world phenomenon that can be measured and for which you could
 collect at least one-hundred data points across at least four different variables.
 • Investigate the types of variables involved, their likely distributions, and their
